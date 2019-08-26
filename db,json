@@ -1,0 +1,4113 @@
+{
+  "tickets": [
+    {
+      "threadTs": "1557773772.978429",
+      "text": "test",
+      "company": "testr",
+      "location": "test",
+      "reportedAt": "Mon May 13 2019 13:56:13 GMT+0000",
+      "priortiy": "Medium",
+      "reportedBy": "aasim",
+      "resolvedBy": "[object Object]"
+    },
+    {
+      "threadTs": "1557782142.316187",
+      "text": "test",
+      "company": "12345",
+      "location": "test",
+      "reportedAt": "Mon May 13 2019 16:15:42 GMT+0000",
+      "priortiy": "Medium",
+      "reportedBy": "aasim",
+      "resolvedBy": "[object Object]"
+    },
+    {
+      "threadTs": "1557782250.526755",
+      "text": "help",
+      "company": "1234",
+      "location": "help",
+      "reportedAt": "Mon May 13 2019 16:17:30 GMT+0000",
+      "priortiy": "Low",
+      "reportedBy": "aasim",
+      "resolvedBy": "[object Object]"
+    },
+    {
+      "threadTs": "1557782321.087368",
+      "text": "test",
+      "company": "12359",
+      "location": "test",
+      "reportedAt": "Mon May 13 2019 16:18:41 GMT+0000",
+      "priortiy": "Medium",
+      "reportedBy": "aasim",
+      "resolvedBy": "[object Object]"
+    },
+    {
+      "threadTs": "1557782571.363141",
+      "text": "ab",
+      "company": "12345",
+      "location": "ab",
+      "reportedAt": "Mon May 13 2019 16:22:51 GMT+0000",
+      "priortiy": "Medium",
+      "reportedBy": "aasim",
+      "resolvedBy": "[object Object]"
+    },
+    {
+      "threadTs": "1557783434.175662",
+      "text": "test",
+      "company": "test",
+      "location": "test",
+      "reportedAt": "Mon May 13 2019 16:37:14 GMT+0000",
+      "priortiy": "Medium",
+      "reportedBy": "aasim",
+      "resolvedBy": "[object Object]"
+    },
+    {
+      "threadTs": "1557784768.359266",
+      "text": "test",
+      "company": "1234",
+      "location": "test",
+      "reportedAt": "Mon May 13 2019 16:59:28 GMT+0000",
+      "priortiy": "Medium",
+      "reportedBy": "aasim",
+      "resolvedBy": "[object Object]"
+    },
+    {
+      "threadTs": "1557784929.437012",
+      "text": "test",
+      "company": "12345",
+      "location": "test",
+      "reportedAt": "Mon May 13 2019 17:02:09 GMT+0000",
+      "priortiy": "High",
+      "reportedBy": "aasim",
+      "resolvedBy": "[object Object]"
+    },
+    {
+      "threadTs": "1557785473.355884",
+      "text": "help",
+      "company": "help",
+      "location": "help",
+      "reportedAt": "Mon May 13 2019 17:11:13 GMT+0000",
+      "priortiy": "Low",
+      "reportedBy": "aasim",
+      "resolvedBy": "[object Object]"
+    },
+    {
+      "threadTs": "1557787199.290486",
+      "text": "test",
+      "company": "1235349",
+      "location": "test",
+      "reportedAt": "Mon May 13 2019 17:39:59 GMT+0000",
+      "priortiy": "Medium",
+      "reportedBy": "aasim",
+      "resolvedBy": "[object Object]"
+    },
+    {
+      "threadTs": "1557787914.466586",
+      "text": "test",
+      "company": "test",
+      "location": "test",
+      "reportedAt": "Mon May 13 2019 17:51:54 GMT+0000",
+      "priortiy": "Medium",
+      "reportedBy": "aasim",
+      "resolvedBy": "[object Object]"
+    },
+    {
+      "threadTs": "1557788117.388726",
+      "text": "test",
+      "company": "test",
+      "location": "teest",
+      "reportedAt": "Mon May 13 2019 17:55:17 GMT+0000",
+      "priortiy": "High",
+      "reportedBy": "aasim",
+      "resolvedBy": "[object Object]"
+    },
+    {
+      "threadTs": "1557788547.981324",
+      "text": "test",
+      "company": "test",
+      "location": "test",
+      "reportedAt": "Mon May 13 2019 18:02:28 GMT+0000",
+      "priortiy": "Low",
+      "reportedBy": "aasim",
+      "resolvedBy": "[object Object]"
+    },
+    {
+      "threadTs": "1557788662.046614",
+      "text": "test",
+      "company": "test",
+      "location": "test",
+      "reportedAt": "Mon May 13 2019 18:04:22 GMT+0000",
+      "priortiy": "Medium",
+      "reportedBy": "aasim",
+      "resolvedBy": "[object Object]"
+    },
+    {
+      "threadTs": "1557788884.135358",
+      "text": "test",
+      "company": "test",
+      "location": "test",
+      "reportedAt": "Mon May 13 2019 18:08:04 GMT+0000",
+      "priortiy": "Medium",
+      "reportedBy": "aasim",
+      "resolvedBy": "[object Object]"
+    },
+    {
+      "threadTs": "1557789382.978813",
+      "text": "test",
+      "company": "test",
+      "location": "test",
+      "reportedAt": "Mon May 13 2019 18:16:23 GMT+0000",
+      "priortiy": "High",
+      "reportedBy": "aasim",
+      "resolvedBy": "[object Object]"
+    },
+    {
+      "threadTs": "1557869953.682415",
+      "text": "test",
+      "company": "1235",
+      "location": "test",
+      "reportedAt": "Tue May 14 2019 16:39:13 GMT+0000",
+      "priortiy": "Low",
+      "reportedBy": "aasim",
+      "resolvedBy": "[object Object]"
+    },
+    {
+      "threadTs": "1557871064.481104",
+      "text": "help",
+      "company": "1234",
+      "location": "help",
+      "reportedAt": "Tue May 14 2019 16:57:44 GMT+0000",
+      "priortiy": "Medium",
+      "reportedBy": "aasim",
+      "resolvedBy": "[object Object]"
+    },
+    {
+      "threadTs": "1557871133.120402",
+      "text": "test",
+      "company": "13255",
+      "location": "test",
+      "reportedAt": "Tue May 14 2019 16:58:53 GMT+0000",
+      "priortiy": "High",
+      "reportedBy": "aasim",
+      "resolvedBy": "[object Object]"
+    },
+    {
+      "threadTs": "1557871369.781965",
+      "text": "text",
+      "company": "test",
+      "location": "test",
+      "reportedAt": "Tue May 14 2019 17:02:49 GMT+0000",
+      "priortiy": "Medium",
+      "reportedBy": "aasim",
+      "resolvedBy": "[object Object]"
+    },
+    {
+      "threadTs": "1557871737.718478",
+      "text": "text",
+      "company": "test",
+      "location": "test",
+      "reportedAt": "Tue May 14 2019 17:08:57 GMT+0000",
+      "priortiy": "Low",
+      "reportedBy": "aasim",
+      "resolvedBy": "[object Object]"
+    },
+    {
+      "threadTs": "1557871829.845034",
+      "text": "test",
+      "company": "test",
+      "location": "test",
+      "reportedAt": "Tue May 14 2019 17:10:29 GMT+0000",
+      "priortiy": "Medium",
+      "reportedBy": "aasim",
+      "resolvedBy": "[object Object]"
+    },
+    {
+      "threadTs": "1557871980.019916",
+      "text": "test",
+      "company": "1235t5",
+      "location": "test",
+      "reportedAt": "Tue May 14 2019 17:13:00 GMT+0000",
+      "priortiy": "Low",
+      "reportedBy": "aasim",
+      "resolvedBy": "[object Object]"
+    },
+    {
+      "threadTs": "1557872226.791538",
+      "text": "text",
+      "company": "test",
+      "location": "test",
+      "reportedAt": "Tue May 14 2019 17:17:06 GMT+0000",
+      "priortiy": "Low",
+      "reportedBy": "aasim",
+      "resolvedBy": "[object Object]"
+    },
+    {
+      "threadTs": "1557872874.048115",
+      "text": "test",
+      "company": "12355",
+      "location": "test",
+      "reportedAt": "Tue May 14 2019 15:27:54 GMT+0000",
+      "priortiy": "High",
+      "reportedBy": "aasim",
+      "resolvedBy": "[object Object]"
+    },
+    {
+      "threadTs": "1557873019.684861",
+      "text": "text",
+      "company": "test",
+      "location": "test",
+      "reportedAt": "Tue May 14 2019 15:30:19 GMT+0000",
+      "priortiy": "Medium",
+      "reportedBy": "aasim",
+      "resolvedBy": "[object Object]"
+    },
+    {
+      "threadTs": "1557874113.153141",
+      "text": "text",
+      "company": "12345",
+      "location": "Japan",
+      "reportedAt": "Tue May 14 2019 15:48:33 GMT+0000",
+      "priortiy": "Medium",
+      "reportedBy": "aasim",
+      "resolvedBy": "[object Object]"
+    },
+    {
+      "threadTs": "1557877900.402713",
+      "text": "text",
+      "company": "test",
+      "location": "test",
+      "reportedAt": "Tue May 14 2019 16:51:40 GMT+0000",
+      "priortiy": "Medium",
+      "reportedBy": "aasim",
+      "resolvedBy": "[object Object]"
+    },
+    {
+      "threadTs": "1557877998.752746",
+      "text": "test",
+      "company": "12357",
+      "location": "test",
+      "reportedAt": "Tue May 14 2019 16:53:18 GMT+0000",
+      "priortiy": "Low",
+      "reportedBy": "aasim",
+      "resolvedBy": "[object Object]"
+    },
+    {
+      "threadTs": "1557878055.297203",
+      "text": "AD",
+      "company": "4562",
+      "location": "Japan",
+      "reportedAt": "Tue May 14 2019 16:54:15 GMT+0000",
+      "priortiy": "Medium",
+      "reportedBy": "aasim",
+      "resolvedBy": "[object Object]"
+    },
+    {
+      "threadTs": "1557878594.671347",
+      "text": "text",
+      "company": "235435",
+      "location": "london",
+      "reportedAt": "Tue May 14 2019 17:03:14 GMT+0000",
+      "priortiy": "Medium",
+      "reportedBy": "aasim",
+      "resolvedBy": "[object Object]"
+    },
+    {
+      "threadTs": "1557878672.034254",
+      "text": "help",
+      "company": "h235",
+      "location": "hell",
+      "reportedAt": "Tue May 14 2019 17:04:32 GMT+0000",
+      "priortiy": "Medium",
+      "reportedBy": "aasim",
+      "resolvedBy": "[object Object]"
+    },
+    {
+      "threadTs": "1557880101.977001",
+      "text": "Test",
+      "company": "test",
+      "location": "test",
+      "reportedAt": "Tue May 14 2019 17:28:22 GMT+0000",
+      "priortiy": "High",
+      "reportedBy": "aasim",
+      "resolvedBy": "[object Object]"
+    },
+    {
+      "threadTs": "1557880190.814989",
+      "text": "Test",
+      "company": "test",
+      "location": "test",
+      "reportedAt": "Tue May 14 2019 17:29:50 GMT+0000",
+      "priortiy": "Medium",
+      "reportedBy": "aasim",
+      "resolvedBy": "[object Object]"
+    },
+    {
+      "threadTs": "1557944922.763701",
+      "text": "Aaasim Sayani killed it at creating this bot",
+      "company": "39490",
+      "location": "c a l i f o r n i a",
+      "reportedAt": "Wed May 15 2019 11:28:42 GMT+0000",
+      "priortiy": "Medium",
+      "reportedBy": "alexa",
+      "resolvedBy": "[object Object]"
+    },
+    {
+      "threadTs": "1557945499.872024",
+      "text": "help",
+      "company": "12355",
+      "location": "Memphis",
+      "reportedAt": "Wed May 15 2019 11:38:19 GMT+0000",
+      "priortiy": "Medium",
+      "reportedBy": "aasim",
+      "resolvedBy": "[object Object]"
+    },
+    {
+      "threadTs": "1558117135.371977",
+      "text": "This is the title",
+      "company": "12345",
+      "location": "12345",
+      "reportedAt": "Fri May 17 2019 11:18:55 GMT+0000",
+      "priortiy": "Medium",
+      "reportedBy": "aasim",
+      "resolvedBy": "[object Object]"
+    },
+    {
+      "threadTs": "1558117419.045347",
+      "text": "Title",
+      "company": "123456",
+      "location": "12345",
+      "reportedAt": "Fri May 17 2019 11:23:39 GMT+0000",
+      "priortiy": "Medium",
+      "reportedBy": "aasim",
+      "resolvedBy": "[object Object]"
+    },
+    {
+      "threadTs": "1558121821.937918",
+      "text": "help",
+      "company": "12345",
+      "location": "12345",
+      "reportedAt": "Fri May 17 2019 12:37:01 GMT+0000",
+      "priortiy": "Medium",
+      "reportedBy": "aasim",
+      "resolvedBy": "[object Object]"
+    },
+    {
+      "threadTs": "1558121920.644791",
+      "text": "test",
+      "company": "test",
+      "location": "test",
+      "reportedAt": "Fri May 17 2019 12:38:40 GMT+0000",
+      "priortiy": "Low",
+      "reportedBy": "aasim",
+      "resolvedBy": "[object Object]"
+    },
+    {
+      "threadTs": "1558131646.466158",
+      "text": "help",
+      "company": "help",
+      "location": "help",
+      "reportedAt": "Fri May 17 2019 15:20:46 GMT+0000",
+      "priortiy": "Medium",
+      "reportedBy": "aasim",
+      "resolvedBy": "[object Object]"
+    },
+    {
+      "threadTs": "1558132362.665281",
+      "text": "test",
+      "company": "test",
+      "location": "test",
+      "reportedAt": "Fri May 17 2019 15:32:42 GMT+0000",
+      "priortiy": "Medium",
+      "reportedBy": "aasim",
+      "resolvedBy": "[object Object]"
+    },
+    {
+      "threadTs": "1558384678.844326",
+      "text": "AD",
+      "company": "12345",
+      "location": "12345",
+      "reportedAt": "Mon May 20 2019 13:37:58 GMT+0000",
+      "priortiy": "Medium",
+      "reportedBy": "aasim",
+      "resolvedBy": "[object Object]"
+    },
+    {
+      "threadTs": "1558384746.481434",
+      "text": "AD ",
+      "company": "23421",
+      "location": "123145`",
+      "reportedAt": "Mon May 20 2019 13:39:06 GMT+0000",
+      "priortiy": "Low",
+      "reportedBy": "aasim",
+      "resolvedBy": "[object Object]"
+    },
+    {
+      "threadTs": "1558385134.135786",
+      "text": "help",
+      "company": "help",
+      "location": "help",
+      "reportedAt": "Mon May 20 2019 13:45:34 GMT+0000",
+      "priortiy": "Medium",
+      "reportedBy": "aasim",
+      "resolvedBy": "[object Object]"
+    },
+    {
+      "threadTs": "1558385471.974975",
+      "text": "test",
+      "company": "test",
+      "location": "test",
+      "reportedAt": "Mon May 20 2019 13:51:12 GMT+0000",
+      "priortiy": "Medium",
+      "reportedBy": "aasim",
+      "resolvedBy": "[object Object]"
+    },
+    {
+      "threadTs": "1558448184.322518",
+      "text": "test",
+      "company": "test",
+      "location": "test",
+      "reportedAt": "Tue May 21 2019 07:16:24 GMT+0000",
+      "priortiy": "Low",
+      "reportedBy": "aasim",
+      "resolvedBy": "[object Object]"
+    },
+    {
+      "threadTs": "1558448864.727694",
+      "text": "help",
+      "company": "h",
+      "location": "h",
+      "reportedAt": "Tue May 21 2019 07:27:44 GMT+0000",
+      "priortiy": "Low",
+      "reportedBy": "aasim",
+      "resolvedBy": "[object Object]"
+    },
+    {
+      "threadTs": "1558449014.428011",
+      "text": "t",
+      "company": "tes",
+      "location": "tes",
+      "reportedAt": "Tue May 21 2019 07:30:14 GMT+0000",
+      "priortiy": "Low",
+      "reportedBy": "aasim",
+      "resolvedBy": "[object Object]"
+    },
+    {
+      "threadTs": "1558449250.032580",
+      "text": "test",
+      "company": "1",
+      "location": "1",
+      "reportedAt": "Tue May 21 2019 07:34:10 GMT+0000",
+      "priortiy": "Low",
+      "reportedBy": "aasim",
+      "resolvedBy": "[object Object]"
+    },
+    {
+      "threadTs": "1558450206.934551",
+      "text": "test",
+      "company": "test",
+      "location": "test",
+      "reportedAt": "Tue May 21 2019 07:50:06 GMT+0000",
+      "priortiy": "Low",
+      "reportedBy": "aasim",
+      "resolvedBy": "[object Object]"
+    },
+    {
+      "threadTs": "1558450484.897144",
+      "text": "Active Directory",
+      "company": "12345",
+      "location": "12445",
+      "reportedAt": "Tue May 21 2019 07:54:44 GMT+0000",
+      "priortiy": "High",
+      "reportedBy": "aasim",
+      "resolvedBy": "[object Object]"
+    },
+    {
+      "threadTs": "1558451648.029109",
+      "text": "This is a KEWL BOT",
+      "company": "39490",
+      "location": "12345",
+      "reportedAt": "Tue May 21 2019 08:14:08 GMT+0000",
+      "priortiy": "High",
+      "reportedBy": "alexa",
+      "resolvedBy": "[object Object]"
+    },
+    {
+      "threadTs": "1558460821.629463",
+      "text": "text",
+      "company": "12345",
+      "location": "12345",
+      "reportedAt": "Tue May 21 2019 10:47:01 GMT+0000",
+      "priortiy": "Low",
+      "reportedBy": "aasim",
+      "resolvedBy": "[object Object]"
+    },
+    {
+      "threadTs": "1558463340.958382",
+      "text": "help",
+      "company": "help",
+      "location": "help",
+      "reportedAt": "Tue May 21 2019 11:29:00 GMT+0000",
+      "priortiy": "Low",
+      "reportedBy": "aasim"
+    },
+    {
+      "threadTs": "1558467414.543570",
+      "text": "AD",
+      "company": "12345",
+      "location": "12345",
+      "reportedAt": "Tue May 21 2019 12:36:54 GMT+0000",
+      "priortiy": "Medium",
+      "reportedBy": "aasim"
+    },
+    {
+      "threadTs": "1558467529.621600",
+      "text": "help",
+      "company": "1235",
+      "location": "12354",
+      "reportedAt": "Tue May 21 2019 12:38:49 GMT+0000",
+      "priortiy": "High",
+      "reportedBy": "aasim"
+    },
+    {
+      "threadTs": "1558468588.392501",
+      "text": "test",
+      "company": "test",
+      "location": "test",
+      "reportedAt": "Tue May 21 2019 12:56:28 GMT+0000",
+      "priortiy": "High",
+      "reportedBy": "aasim"
+    },
+    {
+      "threadTs": "1558469106.276540",
+      "text": "help",
+      "company": "help",
+      "location": "help",
+      "reportedAt": "Tue May 21 2019 13:05:06 GMT+0000",
+      "priortiy": "High",
+      "reportedBy": "aasim"
+    },
+    {
+      "threadTs": "1558469631.285843",
+      "text": "help ",
+      "company": "help",
+      "location": "help",
+      "reportedAt": "Tue May 21 2019 13:13:51 GMT+0000",
+      "priortiy": "High",
+      "reportedBy": "aasim"
+    },
+    {
+      "threadTs": "1558472112.495751",
+      "text": "Active Directory Issue",
+      "company": "58867",
+      "location": "71829",
+      "reportedAt": "Tue May 21 2019 13:55:12 GMT+0000",
+      "priortiy": "Medium",
+      "reportedBy": "aasim"
+    },
+    {
+      "threadTs": "1558472117.365954",
+      "text": "This is just a test",
+      "company": "12345",
+      "location": "12345",
+      "reportedAt": "Tue May 21 2019 13:55:17 GMT+0000",
+      "priortiy": "Low",
+      "reportedBy": "cyrus"
+    },
+    {
+      "threadTs": "1558472129.325290",
+      "text": "test",
+      "company": "there it is",
+      "location": "snap",
+      "reportedAt": "Tue May 21 2019 13:55:29 GMT+0000",
+      "priortiy": "Low",
+      "reportedBy": "megan"
+    },
+    {
+      "threadTs": "1558472244.624673",
+      "text": "How does it look?",
+      "company": "52580",
+      "location": "62428",
+      "reportedAt": "Tue May 21 2019 13:57:24 GMT+0000",
+      "priortiy": "High",
+      "reportedBy": "caitlin539"
+    },
+    {
+      "threadTs": "1558475063.287817",
+      "text": "Testing ",
+      "company": "55332",
+      "location": "null",
+      "reportedAt": "Tue May 21 2019 14:44:23 GMT+0000",
+      "priortiy": "Medium",
+      "reportedBy": "kkeelan"
+    },
+    {
+      "threadTs": "1558484140.066827",
+      "text": "Help",
+      "company": "123456",
+      "location": "1235",
+      "reportedAt": "Tue May 21 2019 17:15:40 GMT+0000",
+      "priority": "Low",
+      "reportedBy": "aasim"
+    },
+    {
+      "threadTs": "1559254997.449139",
+      "text": "Testing testing",
+      "company": "31862",
+      "location": "null",
+      "reportedAt": "Thu May 30 2019 15:23:17 GMT+0000",
+      "priority": "Low",
+      "reportedBy": "brent"
+    },
+    {
+      "threadTs": "1559255813.278298",
+      "text": "Philadelphia 76ers having issues with invites at one location",
+      "company": "12185",
+      "location": "15267",
+      "reportedAt": "Thu May 30 2019 15:36:53 GMT+0000",
+      "priority": "Low",
+      "reportedBy": "megan"
+    },
+    {
+      "threadTs": "1559257656.807940",
+      "text": "SMS notifications going to the wrong person",
+      "company": "39791",
+      "location": "null",
+      "reportedAt": "Thu May 30 2019 16:07:36 GMT+0000",
+      "priority": "Low",
+      "reportedBy": "caitlin539"
+    },
+    {
+      "threadTs": "1559320873.514542",
+      "text": "Invite Email text doesn't match the preview",
+      "company": "5560",
+      "location": "6177",
+      "reportedAt": "Fri May 31 2019 09:41:13 GMT+0000",
+      "priority": "Low",
+      "reportedBy": "caitlin539"
+    },
+    {
+      "threadTs": "1559323532.466867",
+      "text": "Blank Screen For Pre-Registration Invites",
+      "company": "8436",
+      "location": "All locations",
+      "reportedAt": "Fri May 31 2019 10:25:32 GMT+0000",
+      "priority": "High",
+      "reportedBy": "ahmad"
+    },
+    {
+      "threadTs": "1559342604.744638",
+      "text": "Customer reporting deleted user still receiving delivery notifications",
+      "company": "https://boss.envoy.com/companies/23118",
+      "location": "Both",
+      "reportedAt": "Fri May 31 2019 15:43:24 GMT+0000",
+      "priority": "Medium",
+      "reportedBy": "megan"
+    },
+    {
+      "threadTs": "1559759165.168386",
+      "text": "Disabled Slack Notifications But Still Receiving Them For Deliveries.",
+      "company": "23118",
+      "location": "null",
+      "reportedAt": "Wed Jun 05 2019 11:26:05 GMT+0000",
+      "priority": "Medium",
+      "reportedBy": "ahmad"
+    },
+    {
+      "threadTs": "1559845027.803784",
+      "text": "Customer seeing `include-final-screen-link not allowed` error when editing final screen, although no links are included",
+      "company": "62751",
+      "location": "77371",
+      "reportedAt": "Thu Jun 06 2019 11:17:07 GMT+0000",
+      "priority": "Low",
+      "reportedBy": "megan"
+    },
+    {
+      "threadTs": "1559921313.641830",
+      "text": "test",
+      "company": "test",
+      "location": "test",
+      "reportedAt": "Fri Jun 07 2019 08:28:33 GMT+0000",
+      "priority": "Medium",
+      "reportedBy": "aasim"
+    },
+    {
+      "threadTs": "1559928148.712454",
+      "text": "Peloton unable to create new location, seeing `The ajax operation failed due to a conflict` error",
+      "company": "https://boss.envoy.com/companies/17018",
+      "location": "null",
+      "reportedAt": "Fri Jun 07 2019 10:22:28 GMT+0000",
+      "priority": "Low",
+      "reportedBy": "megan"
+    },
+    {
+      "threadTs": "1560196900.720664",
+      "text": "\"Email: Sent at\" timestamp updates on dashboard entry when the email is opened",
+      "company": "25124",
+      "location": "29294",
+      "reportedAt": "Mon Jun 10 2019 13:01:40 GMT+0000",
+      "priority": "Medium",
+      "reportedBy": "ericoleynick"
+    },
+    {
+      "threadTs": "1560279738.874887",
+      "text": "Akamai reporting issues with invites on the Android Passport app",
+      "company": "https://boss.envoy.com/companies/25613",
+      "location": "null",
+      "reportedAt": "Tue Jun 11 2019 12:02:18 GMT+0000",
+      "priority": "Low",
+      "reportedBy": "megan"
+    },
+    {
+      "threadTs": "1560358353.153495",
+      "text": "Cloudflare reporting visitor emails from February sending today ",
+      "company": "https://boss.envoy.com/companies/3382",
+      "location": "https://boss.envoy.com/locations/1268",
+      "reportedAt": "Wed Jun 12 2019 09:52:33 GMT+0000",
+      "priority": "Low",
+      "reportedBy": "megan"
+    },
+    {
+      "threadTs": "1560358605.783367",
+      "text": "People.ai reporting that their Slack integration is no longer sending notifications via channels",
+      "company": "https://boss.envoy.com/companies/30109",
+      "location": "null",
+      "reportedAt": "Wed Jun 12 2019 09:56:45 GMT+0000",
+      "priority": "Low",
+      "reportedBy": "megan"
+    },
+    {
+      "threadTs": "1560435906.115520",
+      "text": "When clicking on a specific user in the directory Envoy logs out",
+      "company": "32220",
+      "location": "448545",
+      "reportedAt": "Thu Jun 13 2019 07:25:06 GMT+0000",
+      "priority": "Medium",
+      "reportedBy": "kkeelan"
+    },
+    {
+      "threadTs": "1560453900.699376",
+      "text": "Return Visitors still being forced to select Visitor Type",
+      "company": "https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=59204",
+      "location": "null",
+      "reportedAt": "Thu Jun 13 2019 12:25:00 GMT+0000",
+      "priority": "Low",
+      "reportedBy": "alexa"
+    },
+    {
+      "threadTs": "1560466807.244632",
+      "text": "error when adding a location",
+      "company": "7538",
+      "location": "null",
+      "reportedAt": "Thu Jun 13 2019 16:00:07 GMT+0000",
+      "priority": "Medium",
+      "reportedBy": "caitlin539"
+    },
+    {
+      "threadTs": "1560528092.512132",
+      "text": "no nda stamp prints only on original badge not reprint",
+      "company": "14595",
+      "location": "null",
+      "reportedAt": "Fri Jun 14 2019 09:01:32 GMT+0000",
+      "priority": "Medium",
+      "reportedBy": "caitlin539"
+    },
+    {
+      "threadTs": "1560530444.899851",
+      "text": "Incorrect visitor photo appearing ",
+      "company": "https://boss.envoy.com/companies/8966",
+      "location": "null",
+      "reportedAt": "Fri Jun 14 2019 09:40:44 GMT+0000",
+      "priority": "Low",
+      "reportedBy": "megan"
+    },
+    {
+      "threadTs": "1560530519.573624",
+      "text": "opening Deliveries application leads to the deliveries dashboard",
+      "company": "214",
+      "location": "null",
+      "reportedAt": "Fri Jun 14 2019 09:41:59 GMT+0000",
+      "priority": "Low",
+      "reportedBy": "caitlin539"
+    },
+    {
+      "threadTs": "1560536257.560689",
+      "text": "pre-registration NDA/legal doc isn't formatted correctly.",
+      "company": "62120",
+      "location": "null",
+      "reportedAt": "Fri Jun 14 2019 11:17:37 GMT+0000",
+      "priority": "Medium",
+      "reportedBy": "caitlin539"
+    },
+    {
+      "threadTs": "1560550573.686675",
+      "text": "Sales ticket ",
+      "company": "12312545",
+      "location": "12345`",
+      "reportedAt": "Fri Jun 14 2019 15:16:13 GMT+0000",
+      "priority": "High",
+      "reportedBy": "aasim"
+    },
+    {
+      "threadTs": "1560787648.610681",
+      "text": "Notifications column not accurate in visitor log",
+      "company": "701",
+      "location": "null",
+      "reportedAt": "Mon Jun 17 2019 09:07:28 GMT+0000",
+      "priority": "Medium",
+      "reportedBy": "ericoleynick"
+    },
+    {
+      "threadTs": "1560807862.699893",
+      "text": "No NDA required - still asking to sign in pre-reg",
+      "company": "49174",
+      "location": "null",
+      "reportedAt": "Mon Jun 17 2019 14:44:22 GMT+0000",
+      "priority": "Medium",
+      "reportedBy": "caitlin539"
+    },
+    {
+      "threadTs": "1560872372.832740",
+      "text": "test",
+      "company": "test",
+      "location": "test",
+      "reportedAt": "Tue Jun 18 2019 08:39:32 GMT+0000",
+      "priority": "Medium",
+      "reportedBy": "aasim"
+    },
+    {
+      "threadTs": "1560872933.044851",
+      "text": "test",
+      "company": "test",
+      "location": "test",
+      "reportedAt": "Tue Jun 18 2019 08:48:53 GMT+0000",
+      "priority": "Medium",
+      "reportedBy": "aasim"
+    },
+    {
+      "threadTs": "1560883379.091683",
+      "text": "Timestamp of notification email incorrect",
+      "company": "53942",
+      "location": "72289",
+      "reportedAt": "Tue Jun 18 2019 11:42:59 GMT+0000",
+      "priority": "Low",
+      "reportedBy": "kkeelan"
+    },
+    {
+      "threadTs": "1560929747.182347",
+      "text": "test",
+      "company": "test",
+      "location": "test",
+      "reportedAt": "Wed Jun 19 2019 00:35:47 GMT+0000",
+      "priority": "Medium",
+      "reportedBy": "aasim"
+    },
+    {
+      "threadTs": "1560932500.207412",
+      "text": "test",
+      "company": "test",
+      "location": "test",
+      "reportedAt": "Wed Jun 19 2019 01:21:40 GMT+0000",
+      "priority": "Medium",
+      "reportedBy": "aasim"
+    },
+    {
+      "threadTs": "1560965044.807300",
+      "text": "Two invites for the same day not registering the second one",
+      "company": "57356",
+      "location": "null",
+      "reportedAt": "Wed Jun 19 2019 10:24:04 GMT+0000",
+      "priority": "Low",
+      "reportedBy": "caitlin539"
+    },
+    {
+      "threadTs": "1560972344.832790",
+      "text": "Host notifications not loading in visitors entries",
+      "company": "https://boss.envoy.com/companies/43344",
+      "location": "null",
+      "reportedAt": "Wed Jun 19 2019 12:25:44 GMT+0000",
+      "priority": "Medium",
+      "reportedBy": "alexm"
+    },
+    {
+      "threadTs": "1561147540.702122",
+      "text": "Slack notifications firing even though Slack is disabled",
+      "company": "https://boss.envoy.com/companies/44590",
+      "location": "null",
+      "reportedAt": "Fri Jun 21 2019 13:05:40 GMT+0000",
+      "priority": "Low",
+      "reportedBy": "megan"
+    },
+    {
+      "threadTs": "1561415697.609738",
+      "text": "Customer reported issues manually adding folks to multiple locations",
+      "company": "https://boss.envoy.com/companies/60892",
+      "location": "null",
+      "reportedAt": "Mon Jun 24 2019 15:34:57 GMT+0000",
+      "priority": "Low",
+      "reportedBy": "megan"
+    },
+    {
+      "threadTs": "1561420989.642793",
+      "text": "invite doesn't match the user",
+      "company": "8722",
+      "location": "null",
+      "reportedAt": "Mon Jun 24 2019 17:03:09 GMT+0000",
+      "priority": "Medium",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1561503499.841618",
+      "text": "employees can still send invites from inactive locations",
+      "company": "11053",
+      "location": "33541",
+      "reportedAt": "Tue Jun 25 2019 15:58:19 GMT+0000",
+      "priority": "Medium",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1561574735.162115",
+      "text": "Google Hangout Duplicate Notifications",
+      "company": "61554",
+      "location": "null",
+      "reportedAt": "Wed Jun 26 2019 11:45:35 GMT+0000",
+      "priority": "Medium",
+      "reportedBy": "ahmad"
+    },
+    {
+      "threadTs": "1561588360.119438",
+      "text": "Eventbrite invites loading into the wrong visitor type",
+      "company": "3382",
+      "location": "1268",
+      "reportedAt": "Wed Jun 26 2019 15:32:40 GMT+0000",
+      "priority": "Medium",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1561643911.781118",
+      "text": "Employees required to reset password when SSO is being used.",
+      "company": "53088",
+      "location": "63373",
+      "reportedAt": "Thu Jun 27 2019 06:58:31 GMT+0000",
+      "priority": "High",
+      "reportedBy": "ahmad"
+    },
+    {
+      "threadTs": "1561648306.120135",
+      "text": "Compass reporting that they can't access delivery areas to scan packages via the app",
+      "company": "https://boss.envoy.com/companies/2902",
+      "location": "https://boss.envoy.com/locations/76347",
+      "reportedAt": "Thu Jun 27 2019 08:11:46 GMT+0000",
+      "priority": "Low",
+      "reportedBy": "megan"
+    },
+    {
+      "threadTs": "1561651948.185950",
+      "text": "Visitor invite email not sending",
+      "company": "52580",
+      "location": "null",
+      "reportedAt": "Thu Jun 27 2019 09:12:28 GMT+0000",
+      "priority": "High",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1561659029.807460",
+      "text": "Final Screen \"Update Settings in more locations\" not working",
+      "company": "25124",
+      "location": "null",
+      "reportedAt": "Thu Jun 27 2019 11:10:29 GMT+0000",
+      "priority": "Medium",
+      "reportedBy": "ericoleynick"
+    },
+    {
+      "threadTs": "1561661957.007567",
+      "text": "cannot configure installed integrations",
+      "company": "49559",
+      "location": "null",
+      "reportedAt": "Thu Jun 27 2019 11:59:17 GMT+0000",
+      "priority": "Medium",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1561671451.527164",
+      "text": "id scan persists even though disabled",
+      "company": "41721",
+      "location": "78406",
+      "reportedAt": "Thu Jun 27 2019 14:37:31 GMT+0000",
+      "priority": "Medium",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1561740694.546329",
+      "text": "Mondo experiencing issues with group invites ",
+      "company": "https://boss.envoy.com/companies/24680",
+      "location": "https://boss.envoy.com/locations/60494",
+      "reportedAt": "Fri Jun 28 2019 09:51:34 GMT+0000",
+      "priority": "High",
+      "reportedBy": "megan"
+    },
+    {
+      "threadTs": "1561741360.263720",
+      "text": "delivery areas wont load",
+      "company": "2902",
+      "location": "null",
+      "reportedAt": "Fri Jun 28 2019 10:02:40 GMT+0000",
+      "priority": "Medium",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1562012436.985744",
+      "text": "Unable to update logo",
+      "company": "63626",
+      "location": "63626",
+      "reportedAt": "Mon Jul 01 2019 13:20:37 GMT+0000",
+      "priority": "Low",
+      "reportedBy": "kkeelan"
+    },
+    {
+      "threadTs": "1562013075.656910",
+      "text": "Delete account",
+      "company": "https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=33682",
+      "location": "null",
+      "reportedAt": "Mon Jul 01 2019 13:31:15 GMT+0000",
+      "priority": "Medium",
+      "reportedBy": "kkeelan"
+    },
+    {
+      "threadTs": "1562015429.350032",
+      "text": "iPad Showing As Disconnected on Envoy Devices Dashboard",
+      "company": "https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=53229",
+      "location": "79752",
+      "reportedAt": "Mon Jul 01 2019 14:10:29 GMT+0000",
+      "priority": "Low",
+      "reportedBy": "harrison.garovi"
+    },
+    {
+      "threadTs": "1562101886.253581",
+      "text": "Hyperlink in Final Screen Not working",
+      "company": "64347",
+      "location": "null",
+      "reportedAt": "Tue Jul 02 2019 14:11:26 GMT+0000",
+      "priority": "Medium",
+      "reportedBy": "kkeelan"
+    },
+    {
+      "threadTs": "1562111019.050640",
+      "text": "Unable to edit nickname in delivery app",
+      "company": "1151",
+      "location": "null",
+      "reportedAt": "Tue Jul 02 2019 16:43:39 GMT+0000",
+      "priority": "Low",
+      "reportedBy": "harrison.garovi"
+    },
+    {
+      "threadTs": "1562603293.052192",
+      "text": "Can we update the email on this a/c please",
+      "company": "https://boss.envoy.com/companies/31185",
+      "location": "null",
+      "reportedAt": "Mon Jul 08 2019 09:28:13 GMT+0000",
+      "priority": "Low",
+      "reportedBy": "megan"
+    },
+    {
+      "threadTs": "1562610059.940350",
+      "text": "Delete 7180 from Company",
+      "company": "10586",
+      "location": "40688",
+      "reportedAt": "Mon Jul 08 2019 11:20:59 GMT+0000",
+      "priority": "Low",
+      "reportedBy": "harrison.garovi"
+    },
+    {
+      "threadTs": "1562623843.067440",
+      "text": "Active Directory filtering options?",
+      "company": "19750",
+      "location": "null",
+      "reportedAt": "Mon Jul 08 2019 15:10:43 GMT+0000",
+      "priority": "Low",
+      "reportedBy": "ericoleynick"
+    },
+    {
+      "threadTs": "1562691744.281293",
+      "text": "Global admin can't add Dropbox Integration",
+      "company": "https://boss.envoy.com/companies/63736",
+      "location": "null",
+      "reportedAt": "Tue Jul 09 2019 10:02:24 GMT+0000",
+      "priority": "Low",
+      "reportedBy": "megan"
+    },
+    {
+      "threadTs": "1562700946.080442",
+      "text": "Company Name change doesn't save in garaje",
+      "company": "39267",
+      "location": "null",
+      "reportedAt": "Tue Jul 09 2019 12:35:46 GMT+0000",
+      "priority": "Low",
+      "reportedBy": "ericoleynick"
+    },
+    {
+      "threadTs": "1562707916.710406",
+      "text": "Having trouble adding blocklist admins -- won't save list",
+      "company": "7797",
+      "location": "null",
+      "reportedAt": "Tue Jul 09 2019 14:31:56 GMT+0000",
+      "priority": "Medium",
+      "reportedBy": "ericoleynick"
+    },
+    {
+      "threadTs": "1562782293.562592",
+      "text": "Delivery Notifications Toggle Switch Not Saving",
+      "company": "63552",
+      "location": "78470",
+      "reportedAt": "Wed Jul 10 2019 11:11:33 GMT+0000",
+      "priority": "Low",
+      "reportedBy": "harrison.garovi"
+    },
+    {
+      "threadTs": "1562785397.760836",
+      "text": "seems that all basic accounts aren't showing the full list of integrations",
+      "company": "51397",
+      "location": "null",
+      "reportedAt": "Wed Jul 10 2019 12:03:17 GMT+0000",
+      "priority": "Low",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1563211659.300862",
+      "text": "SSO requiring password",
+      "company": "53088",
+      "location": "null",
+      "reportedAt": "Mon Jul 15 2019 10:27:39 GMT+0000",
+      "priority": "Medium",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1563220565.173684",
+      "text": "Sign in arrow remains unavailable even after all required information is input  ",
+      "company": "724",
+      "location": "3376",
+      "reportedAt": "Mon Jul 15 2019 12:56:05 GMT+0000",
+      "priority": "Low",
+      "reportedBy": "matt.t"
+    },
+    {
+      "threadTs": "1563288928.869255",
+      "text": "Bulk invite uploader problems",
+      "company": "25124",
+      "location": "29294",
+      "reportedAt": "Tue Jul 16 2019 07:55:28 GMT+0000",
+      "priority": "Medium",
+      "reportedBy": "ericoleynick"
+    },
+    {
+      "threadTs": "1563381990.635369",
+      "text": "Customer unable to toggle on delivery notifications ",
+      "company": "https://boss.envoy.com/companies/23418",
+      "location": "70848",
+      "reportedAt": "Wed Jul 17 2019 09:46:30 GMT+0000",
+      "priority": "Low",
+      "reportedBy": "megan"
+    },
+    {
+      "threadTs": "1563408492.484641",
+      "text": "Deliveries sso not working",
+      "company": "21903",
+      "location": "25645",
+      "reportedAt": "Wed Jul 17 2019 17:08:12 GMT+0000",
+      "priority": "Medium",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1563476830.555350",
+      "text": "Notification statuses incorrect on visitor log",
+      "company": "1340",
+      "location": "2070",
+      "reportedAt": "Thu Jul 18 2019 12:07:10 GMT+0000",
+      "priority": "Medium",
+      "reportedBy": "ericoleynick"
+    },
+    {
+      "threadTs": "1563575222.486044",
+      "text": "Ignore ",
+      "company": "12345",
+      "location": "12345",
+      "reportedAt": "Fri Jul 19 2019 15:27:02 GMT+0000",
+      "priority": "Low",
+      "reportedBy": "aasim"
+    },
+    {
+      "threadTs": "1563811801.463194",
+      "text": "Can we delete this duplicate account please?",
+      "company": "65795",
+      "location": "null",
+      "reportedAt": "Mon Jul 22 2019 09:10:01 GMT+0000",
+      "priority": "Low",
+      "reportedBy": "megan"
+    },
+    {
+      "threadTs": "1563827793.622543",
+      "text": "[ThoughtWorks] API Expected Functionality ",
+      "company": "63985",
+      "location": "79121",
+      "reportedAt": "Mon Jul 22 2019 13:36:33 GMT+0000",
+      "priority": "Low",
+      "reportedBy": "aasim"
+    },
+    {
+      "threadTs": "1563830515.492324",
+      "text": "Self-induced Cloudflare Block (iPad Oauth)",
+      "company": "63527",
+      "location": "null",
+      "reportedAt": "Mon Jul 22 2019 14:21:55 GMT+0000",
+      "priority": "High",
+      "reportedBy": "stephen"
+    },
+    {
+      "threadTs": "1563901315.369041",
+      "text": "GA unable to view the visitor type page in their dashboard",
+      "company": "22784",
+      "location": "null",
+      "reportedAt": "Tue Jul 23 2019 10:01:55 GMT+0000",
+      "priority": "Low",
+      "reportedBy": "megan"
+    },
+    {
+      "threadTs": "1563909005.895507",
+      "text": "Saving contacts in device status notifications",
+      "company": "6031",
+      "location": "null",
+      "reportedAt": "Tue Jul 23 2019 12:10:05 GMT+0000",
+      "priority": "Low",
+      "reportedBy": "ahmad"
+    },
+    {
+      "threadTs": "1564071766.062870",
+      "text": "tst",
+      "company": "test",
+      "location": "test",
+      "reportedAt": "Thu Jul 25 2019 09:22:46 GMT+0000",
+      "priority": "Medium",
+      "reportedBy": "aasim"
+    },
+    {
+      "threadTs": "1564510480.294017",
+      "text": "\"Something went wrong\" ",
+      "company": "28817",
+      "location": "null",
+      "reportedAt": "Tue Jul 30 2019 11:14:40 GMT+0000",
+      "priority": "High",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1564595314.951660",
+      "text": "Customer seeing errors when attempting to change settings in dashboard",
+      "company": "65329",
+      "location": "81065",
+      "reportedAt": "Wed Jul 31 2019 10:48:34 GMT+0000",
+      "priority": "Low",
+      "reportedBy": "megan"
+    },
+    {
+      "threadTs": "1564770105.393021",
+      "text": "employee notification status disappeared",
+      "company": "52580",
+      "location": "null",
+      "reportedAt": "Fri Aug 02 2019 11:21:45 GMT+0000",
+      "priority": "Medium",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1565028263.155131",
+      "text": "Akamai reporting errors when creating invites on Android",
+      "company": "25613",
+      "location": "null",
+      "reportedAt": "Mon Aug 05 2019 11:04:23 GMT+0000",
+      "priority": "Low",
+      "reportedBy": "megan"
+    },
+    {
+      "threadTs": "1565043976.002790",
+      "text": "Hidden employee as host on kiosk can't be selected as host on pre-reg",
+      "company": "2156",
+      "location": "null",
+      "reportedAt": "Mon Aug 05 2019 15:26:16 GMT+0000",
+      "priority": "Medium",
+      "reportedBy": "isabel"
+    },
+    {
+      "threadTs": "1565207264.788331",
+      "text": "Error Message when creating 'repeated invites' in Visitor's dashboard",
+      "company": "65663",
+      "location": "null",
+      "reportedAt": "Wed Aug 07 2019 12:47:44 GMT+0000",
+      "priority": "Low",
+      "reportedBy": "harrison.garovi"
+    },
+    {
+      "threadTs": "1565366901.057276",
+      "text": "SMS notifications not firing",
+      "company": "14232",
+      "location": "77505",
+      "reportedAt": "Fri Aug 09 2019 09:08:21 GMT+0000",
+      "priority": "Low",
+      "reportedBy": "megan"
+    },
+    {
+      "threadTs": "1565376009.484457",
+      "text": "gsuite syncing deleted employees",
+      "company": "5334",
+      "location": "null",
+      "reportedAt": "Fri Aug 09 2019 11:40:09 GMT+0000",
+      "priority": "Medium",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1565380046.135995",
+      "text": "Premium trial account not showing option to enable SMS notifications for location",
+      "company": "https://boss.envoy.com/companies/67279",
+      "location": "null",
+      "reportedAt": "Fri Aug 09 2019 12:47:26 GMT+0000",
+      "priority": "Medium",
+      "reportedBy": "alexm"
+    },
+    {
+      "threadTs": "1565632682.858063",
+      "text": "Miles Obrien (The Cupcake ordering app) is down",
+      "company": "871",
+      "location": "null",
+      "reportedAt": "Mon Aug 12 2019 10:58:02 GMT+0000",
+      "priority": "Medium",
+      "reportedBy": "ethan"
+    },
+    {
+      "threadTs": "1565634746.972119",
+      "text": "visitor logs not able to export",
+      "company": "43559",
+      "location": "null",
+      "reportedAt": "Mon Aug 12 2019 11:32:26 GMT+0000",
+      "priority": "High",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1565635646.222959",
+      "text": "API Employee Endpoint - Uber",
+      "company": "470",
+      "location": "2727, 3670, 5138",
+      "reportedAt": "Mon Aug 12 2019 11:47:26 GMT+0000",
+      "priority": "High",
+      "reportedBy": "stephen"
+    },
+    {
+      "threadTs": "1565642163.620603",
+      "text": "Trial Account Creation - Broken",
+      "company": "N/A",
+      "location": "N/A",
+      "reportedAt": "Mon Aug 12 2019 13:36:03 GMT+0000",
+      "priority": "High",
+      "reportedBy": "stephen"
+    },
+    {
+      "threadTs": "1565711905.504111",
+      "text": "Spunk is unable to add Delivery Areas",
+      "company": "2686",
+      "location": "null",
+      "reportedAt": "Tue Aug 13 2019 08:58:25 GMT+0000",
+      "priority": "Medium",
+      "reportedBy": "ethan"
+    },
+    {
+      "threadTs": "1565800387.707012",
+      "text": "welcome email edits not applying",
+      "company": "59670",
+      "location": "null",
+      "reportedAt": "Wed Aug 14 2019 09:33:07 GMT+0000",
+      "priority": "Low",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1565977460.499375",
+      "text": "Seagate: Stating Workday refresh not occurring",
+      "company": "11700",
+      "location": "null",
+      "reportedAt": "Fri Aug 16 2019 10:44:20 GMT+0000",
+      "priority": "Medium",
+      "reportedBy": "chrish"
+    },
+    {
+      "threadTs": "1565990646.224776",
+      "text": "Invite confirmation email sending with the wrong timezone information",
+      "company": "1604",
+      "location": "78501",
+      "reportedAt": "Fri Aug 16 2019 14:24:06 GMT+0000",
+      "priority": "Low",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1566234988.177641",
+      "text": "Cotiviti: Need to update company name from Verisk Health to Cotiviti",
+      "company": "4580",
+      "location": "null",
+      "reportedAt": "Mon Aug 19 2019 10:16:28 GMT+0000",
+      "priority": "Low",
+      "reportedBy": "chrish"
+    },
+    {
+      "threadTs": "1566326069.660824",
+      "text": "Uber global overview analytics tab has some wrong information",
+      "company": "470",
+      "location": "5138",
+      "reportedAt": "Tue Aug 20 2019 11:34:29 GMT+0000",
+      "priority": "Medium",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1566492244.067559",
+      "text": "security desk page is not loading ",
+      "company": "37887",
+      "location": "null",
+      "reportedAt": "Thu Aug 22 2019 09:44:04 GMT+0000",
+      "priority": "High",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1566837661.384347",
+      "text": "customer getting error in dashboard for Aerohive integration 'Error loading select options. TypeError: Converting circular structure to JSON'",
+      "company": "https://boss.envoy.com/companies/23243",
+      "location": "null",
+      "reportedAt": "Mon Aug 26 2019 09:41:01 GMT+0000",
+      "priority": "Medium",
+      "reportedBy": "alexm"
+    }
+  ],
+  "threadTs": {},
+  "text": {},
+  "status": {},
+  "company": {},
+  "location": {},
+  "reportedAt": {},
+  "priortiy": {},
+  "links": {},
+  "reportedBy": {},
+  "resolvedBy": {},
+  "priority": {},
+  "reopen": [
+    {
+      "messageTs": "undefined",
+      "text": "*Description:*\nhel[",
+      "company": "*ReTool Link:*\n<https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=help>",
+      "location": "*Location ID:*\nhelp",
+      "reportedAt": "Tue May 21 2019 11:29:10 GMT+0000",
+      "priority": "*Urgency:*\nLow",
+      "reportedBy": "aasim"
+    },
+    {
+      "messageTs": "undefined",
+      "text": "*Description:*\ndescription",
+      "company": "*ReTool Link:*\n<https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=12345>",
+      "location": "*Location ID:*\n12345",
+      "reportedAt": "Tue May 21 2019 12:37:00 GMT+0000",
+      "priority": "*Urgency:*\nMedium",
+      "reportedBy": "aasim"
+    },
+    {
+      "messageTs": "undefined",
+      "text": "*Description:*\nhelp",
+      "company": "*ReTool Link:*\n<https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=1235>",
+      "location": "*Location ID:*\n12354",
+      "reportedAt": "Tue May 21 2019 12:38:55 GMT+0000",
+      "priority": "*Urgency:*\nHigh",
+      "reportedBy": "aasim"
+    },
+    {
+      "messageTs": "1558469631.006500",
+      "text": "*Description:*\nhelp",
+      "company": "*ReTool Link:*\n<https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=help>",
+      "location": "*Location ID:*\nhelp",
+      "reportedAt": "Tue May 21 2019 13:13:54 GMT+0000",
+      "priority": "*Urgency:*\nHigh",
+      "reportedBy": "aasim"
+    },
+    {
+      "messageTs": "1558472244.009800",
+      "text": "*Description:*\nthis is a problem and we want it solved :( ",
+      "company": "*ReTool Link:*\n<https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=52580>",
+      "location": "*Location ID:*\n62428",
+      "reportedAt": "Tue May 21 2019 14:01:09 GMT+0000",
+      "priority": "*Urgency:*\nHigh",
+      "reportedBy": "kkeelan"
+    },
+    {
+      "messageTs": "1558472244.009800",
+      "text": "*Description:*\nthis is a problem and we want it solved :( ",
+      "company": "*ReTool Link:*\n<https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=52580>",
+      "location": "*Reopened By*:\n kkeelan",
+      "reportedAt": "Tue May 21 2019 14:32:51 GMT+0000",
+      "priority": "*Escalated To:*\ncaitlin539",
+      "reportedBy": "aasim"
+    },
+    {
+      "messageTs": "1558484140.007200",
+      "text": "*Description:*\nHelp",
+      "company": "*ReTool Link:*\n<https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=123456>",
+      "location": "*Location ID:*\n1235",
+      "reportedAt": "Tue May 21 2019 17:15:48 GMT+0000",
+      "priority": "*Completed Status*: Closed",
+      "reportedBy": "aasim"
+    },
+    {
+      "messageTs": "1558484140.007200",
+      "text": "*Description:*\nHelp",
+      "company": "*ReTool Link:*\n<https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=123456>",
+      "location": "*Reopened By*:\n aasim",
+      "reportedAt": "Tue May 21 2019 17:16:09 GMT+0000",
+      "priority": "*Completed Status*: Closed",
+      "reportedBy": "aasim"
+    },
+    {
+      "messageTs": "1559921313.000100",
+      "text": "*Description:*\ntest",
+      "company": "*ReTool Link:*\n<https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=test>",
+      "location": "*Location ID:*\ntest",
+      "reportedAt": "Fri Jun 07 2019 08:28:38 GMT+0000",
+      "priority": "*Completed Status*: Closed",
+      "reportedBy": "aasim"
+    },
+    {
+      "messageTs": "1560872373.001500",
+      "text": "*Description:*\ntest",
+      "company": "*ReTool Link:*\n<https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=test>",
+      "location": "*Location ID:*\ntest",
+      "reportedAt": "Tue Jun 18 2019 08:39:38 GMT+0000",
+      "priority": "*Completed Status*:\n Open",
+      "reportedBy": "aasim"
+    },
+    {
+      "messageTs": "1562603293.158600",
+      "text": "*Description:*\nCan we update the email on this a/c from <mailto:catarina.lindstrom@americourcebergen.com|catarina.lindstrom@americourcebergen.com> to <mailto:catarina.lindstroem@amerisourcebergen.com|catarina.lindstroem@amerisourcebergen.com> please?\n<https://boss.envoy.com/users/550580>\n\n(and delete this dupe: <https://boss.envoy.com/users/727437>)\n\nThey need front desk admin permissions ",
+      "company": "*ReTool Link:*\n<https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=https://boss.envoy.com/companies/31185>",
+      "location": "*Location ID:*\nnull",
+      "reportedAt": "Mon Jul 08 2019 10:43:46 GMT+0000",
+      "priority": "*Completed Status*: Closed",
+      "reportedBy": "aasim"
+    }
+  ],
+  "messageTs": {},
+  "closed": [
+    {
+      "messageTs": "undefined",
+      "text": "*Description:*\ntest",
+      "company": "*ReTool Link:*\n<https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=test>",
+      "location": "*Location ID:*\ntest",
+      "reportedAt": "Tue May 21 2019 12:59:28 GMT+0000",
+      "priority": "*Urgency:*\nHigh",
+      "reportedBy": "aasim"
+    },
+    {
+      "messageTs": "1558469106.006300",
+      "text": "*Description:*\nhelp",
+      "company": "*ReTool Link:*\n<https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=help>",
+      "location": "*Location ID:*\nhelp",
+      "reportedAt": "Tue May 21 2019 13:05:10 GMT+0000",
+      "priority": "*Urgency:*\nHigh",
+      "reportedBy": "aasim"
+    },
+    {
+      "messageTs": "1558469631.006500",
+      "text": "*Description:*\nhelp",
+      "company": "*ReTool Link:*\n<https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=help>",
+      "location": "*Reopened By*:\n aasim",
+      "reportedAt": "Tue May 21 2019 13:13:57 GMT+0000",
+      "priority": "*Escalated To:*\nstephen",
+      "reportedBy": "aasim"
+    },
+    {
+      "messageTs": "1558472117.007700",
+      "text": "*Description:*\nOnly a test",
+      "company": "*ReTool Link:*\n<https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=12345>",
+      "location": "*Location ID:*\n12345",
+      "reportedAt": "Tue May 21 2019 13:56:13 GMT+0000",
+      "priority": "*Urgency:*\nLow",
+      "reportedBy": "cyrus"
+    },
+    {
+      "messageTs": "1558472244.009800",
+      "text": "*Description:*\nthis is a problem and we want it solved :( ",
+      "company": "*ReTool Link:*\n<https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=52580>",
+      "location": "*Location ID:*\n62428",
+      "reportedAt": "Tue May 21 2019 13:58:16 GMT+0000",
+      "priority": "*Urgency:*\nHigh",
+      "reportedBy": "caitlin539"
+    },
+    {
+      "messageTs": "1558472244.009800",
+      "text": "*Description:*\nthis is a problem and we want it solved :( ",
+      "company": "*ReTool Link:*\n<https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=52580>",
+      "location": "*Reopened By*:\n kkeelan",
+      "reportedAt": "Tue May 21 2019 14:01:15 GMT+0000",
+      "priority": "*Escalated To:*\ncaitlin539",
+      "reportedBy": "kkeelan"
+    },
+    {
+      "messageTs": "1558472244.009800",
+      "text": "*Description:*\nthis is a problem and we want it solved :( ",
+      "company": "*ReTool Link:*\n<https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=52580>",
+      "location": "*Reopened By*:\n aasim",
+      "reportedAt": "Tue May 21 2019 14:33:11 GMT+0000",
+      "priority": "*Reported By:*\ncaitlin539",
+      "reportedBy": "aasim"
+    },
+    {
+      "messageTs": "1558475063.018000",
+      "text": "*Description:*\ntesting",
+      "company": "*ReTool Link:*\n<https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=55332>",
+      "location": "*Location ID:*\nnull",
+      "reportedAt": "Tue May 21 2019 14:56:55 GMT+0000",
+      "priority": "*Urgency:*\nMedium",
+      "reportedBy": "kkeelan"
+    },
+    {
+      "messageTs": "1558484140.007200",
+      "text": "*Description:*\nHelp",
+      "company": "*ReTool Link:*\n<https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=123456>",
+      "location": "*Location ID:*\n1235",
+      "reportedAt": "Tue May 21 2019 17:15:44 GMT+0000",
+      "priority": "*Completed Status*:\n Open",
+      "reportedBy": "aasim"
+    },
+    {
+      "messageTs": "1558484140.007200",
+      "text": "*Description:*\nHelp",
+      "company": "*ReTool Link:*\n<https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=123456>",
+      "location": "*Reopened By*:\n aasim",
+      "reportedAt": "Tue May 21 2019 17:15:59 GMT+0000",
+      "priority": "*Completed Status*: Closed",
+      "reportedBy": "aasim"
+    },
+    {
+      "messageTs": "1558484140.007200",
+      "text": "*Description:*\nHelp",
+      "company": "*ReTool Link:*\n<https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=123456>",
+      "location": "*Reopened By*:\n aasim",
+      "reportedAt": "Tue May 21 2019 17:16:12 GMT+0000",
+      "priority": "*Completed Status*: Closed",
+      "reportedBy": "aasim"
+    },
+    {
+      "messageTs": "1559254997.002200",
+      "text": "*Description:*\nThe new bot is amazing Aasim :)",
+      "company": "*ReTool Link:*\n<https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=31862>",
+      "location": "*Location ID:*\nnull",
+      "reportedAt": "Thu May 30 2019 15:28:02 GMT+0000",
+      "priority": "*Completed Status*:\n Open",
+      "reportedBy": "brent"
+    },
+    {
+      "messageTs": "1559257657.005200",
+      "text": "*Description:*\nCustomer is saying that SMS notifications are going to one employee when a different person is set up as a host. \n\nCustomer is on Basic and shouldn't have SMS at all.",
+      "company": "*ReTool Link:*\n<https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=39791>",
+      "location": "*Location ID:*\nnull",
+      "reportedAt": "Fri May 31 2019 08:41:01 GMT+0000",
+      "priority": "*Completed Status*:\n Open",
+      "reportedBy": "brent"
+    },
+    {
+      "messageTs": "1559255813.002400",
+      "text": "*Description:*\nCustomer reported that invited folks are not seeing their invite date populate when they attempt to sign in at the Prudential Center location (15267). It's working correctly at their other location.\n\nTested and could reproduce - test invite ID 5380021 (<https://dashboard.envoy.com/invites/5380021>)",
+      "company": "*ReTool Link:*\n<https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=12185>",
+      "location": "*Location ID:*\n15267",
+      "reportedAt": "Fri May 31 2019 10:49:42 GMT+0000",
+      "priority": "*Completed Status*:\n Open",
+      "reportedBy": "alexm"
+    },
+    {
+      "messageTs": "1559921313.000100",
+      "text": "*Description:*\ntest",
+      "company": "*ReTool Link:*\n<https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=test>",
+      "location": "*Location ID:*\ntest",
+      "reportedAt": "Fri Jun 07 2019 08:28:36 GMT+0000",
+      "priority": "*Completed Status*:\n Open",
+      "reportedBy": "aasim"
+    },
+    {
+      "messageTs": "1559921313.000100",
+      "text": "*Description:*\ntest",
+      "company": "*ReTool Link:*\n<https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=test>",
+      "location": "*Reopened By*:\n aasim",
+      "reportedAt": "Fri Jun 07 2019 08:28:40 GMT+0000",
+      "priority": "*Completed Status*: Closed",
+      "reportedBy": "aasim"
+    },
+    {
+      "messageTs": "1560435906.006600",
+      "text": "*Description:*\nWhen Patchworks clicks on Karim Chekroun  (<mailto:kchekroun@splunk.com|kchekroun@splunk.com>) in their directory it will kick them out of Envoy and have them log in again.\n\nTested and able to reproduce on our end but only in customer's account. Unable to reproduce in my own account. Restarted computer, cleared cache, opened incognito window all with the same result. User ID 448545",
+      "company": "*ReTool Link:*\n<https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=32220>",
+      "location": "*Location ID:*\n448545",
+      "reportedAt": "Thu Jun 13 2019 08:41:18 GMT+0000",
+      "priority": "*Completed Status*:\n Open",
+      "reportedBy": "caitlin539"
+    },
+    {
+      "messageTs": "1560536257.028700",
+      "text": "*Description:*\nPre-registration is not picking up \"variables\" in the legal docs when asking to be signed it's loading as ::Name:: or ::company:: etc.",
+      "company": "*ReTool Link:*\n<https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=62120>",
+      "location": "*Location ID:*\nnull",
+      "reportedAt": "Mon Jun 17 2019 09:20:30 GMT+0000",
+      "priority": "*Completed Status*:\n Open",
+      "reportedBy": "caitlin539"
+    },
+    {
+      "messageTs": "1560787648.038800",
+      "text": "*Description:*\nNotifications column shows \"none attempted\", but individual visitor entries reveal notifications are sending (see screenshot)",
+      "company": "*ReTool Link:*\n<https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=701>",
+      "location": "*Location ID:*\nnull",
+      "reportedAt": "Mon Jun 17 2019 13:20:00 GMT+0000",
+      "priority": "*Completed Status*:\n Open",
+      "reportedBy": "ethan"
+    },
+    {
+      "messageTs": "1560872373.001500",
+      "text": "*Description:*\ntest",
+      "company": "*ReTool Link:*\n<https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=test>",
+      "location": "*Reopened By*:\n aasim",
+      "reportedAt": "Tue Jun 18 2019 08:39:40 GMT+0000",
+      "priority": "*Completed Status*:\n Open",
+      "reportedBy": "aasim"
+    },
+    {
+      "messageTs": "1560530445.018800",
+      "text": "*Description:*\nCustomer reported that this entry signed in with the incorrect photo: <https://dashboard.envoy.com/entries/52491190>\n\nThe photo used was from this entry: \n<https://dashboard.envoy.com/entries/7101363>\n\nThey emails are different  - <mailto:ciaran@cassidypp.ie|ciaran@cassidypp.ie> &amp; <mailto:ciaran.odwyer@outlook.com|ciaran.odwyer@outlook.com> and they're not using a phone number so I'm not sure why they'd be linked.",
+      "company": "*ReTool Link:*\n<https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=https://boss.envoy.com/companies/8966>",
+      "location": "*Location ID:*\nnull",
+      "reportedAt": "Tue Jun 18 2019 11:41:09 GMT+0000",
+      "priority": "*Completed Status*:\n Open",
+      "reportedBy": "ethan"
+    },
+    {
+      "messageTs": "1561671451.134600",
+      "text": "*Description:*\nID Scanning is not enabled but still prompting visitors to scan their ID after typing their name. Able to reproduce on their account with my iPad but not on my own account. Bug reports to follow",
+      "company": "*ReTool Link:*\n<https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=41721>",
+      "location": "*Location ID:*\n78406",
+      "reportedAt": "Thu Jun 27 2019 15:00:35 GMT+0000",
+      "priority": "*Completed Status*:\n Open",
+      "reportedBy": "alexm"
+    },
+    {
+      "messageTs": "1562012437.063700",
+      "text": "*Description:*\nCustomer is updating logo for iPad and the image will not update on badges.\n\n1. Able to reproduce on the customers dashboard\n2. Unable to reproduce on my own test account.",
+      "company": "*ReTool Link:*\n<https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=63626>",
+      "location": "*Location ID:*\n63626",
+      "reportedAt": "Mon Jul 01 2019 15:33:03 GMT+0000",
+      "priority": "*Completed Status*:\n Open",
+      "reportedBy": "cyrus"
+    },
+    {
+      "messageTs": "1562013075.065200",
+      "text": "*Description:*\nCompany is inactive and would like their account deleted <https://signwithenvoy.zendesk.com/agent/tickets/56347>",
+      "company": "*ReTool Link:*\n<https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=33682>",
+      "location": "*Location ID:*\nnull",
+      "reportedAt": "Mon Jul 01 2019 16:03:56 GMT+0000",
+      "priority": "*Completed Status*:\n Open",
+      "reportedBy": "cyrus"
+    },
+    {
+      "messageTs": "1562015429.210500",
+      "text": "*Description:*\nThe iPad is connected to Wi-Fi yet it is not displaying on the Envoy dashboard. Visitors are able to log into the iPad and appear on the dashboard. They have 4 locations and this only happens at the Lehi location.",
+      "company": "*ReTool Link:*\n<https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=53229>",
+      "location": "*Location ID:*\n79752",
+      "reportedAt": "Tue Jul 02 2019 14:51:36 GMT+0000",
+      "priority": "*Completed Status*:\n Open",
+      "reportedBy": "alexm"
+    },
+    {
+      "messageTs": "1562603293.158600",
+      "text": "*Description:*\nCan we update the email on this a/c from <mailto:catarina.lindstrom@americourcebergen.com|catarina.lindstrom@americourcebergen.com> to <mailto:catarina.lindstroem@amerisourcebergen.com|catarina.lindstroem@amerisourcebergen.com> please?\n<https://boss.envoy.com/users/550580>\n\n(and delete this dupe: <https://boss.envoy.com/users/727437>)\n\nThey need front desk admin permissions ",
+      "company": "*ReTool Link:*\n<https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=https://boss.envoy.com/companies/31185>",
+      "location": "*Location ID:*\nnull",
+      "reportedAt": "Mon Jul 08 2019 10:42:22 GMT+0000",
+      "priority": "*Completed Status*:\n Open",
+      "reportedBy": "aasim"
+    },
+    {
+      "messageTs": "1562610060.235600",
+      "text": "*Description:*\nCan location 7180 be deleted from <https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=10586>",
+      "company": "*ReTool Link:*\n<https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=10586>",
+      "location": "*Location ID:*\n40688",
+      "reportedAt": "Mon Jul 08 2019 11:29:37 GMT+0000",
+      "priority": "*Completed Status*:\n Open",
+      "reportedBy": "harrison.garovi"
+    },
+    {
+      "messageTs": "1562603293.158600",
+      "text": "*Description:*\nCan we update the email on this a/c from <mailto:catarina.lindstrom@americourcebergen.com|catarina.lindstrom@americourcebergen.com> to <mailto:catarina.lindstroem@amerisourcebergen.com|catarina.lindstroem@amerisourcebergen.com> please?\n<https://boss.envoy.com/users/550580>\n\n(and delete this dupe: <https://boss.envoy.com/users/727437>)\n\nThey need front desk admin permissions ",
+      "company": "*ReTool Link:*\n<https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=https://boss.envoy.com/companies/31185>",
+      "location": "*Reopened By*:\n aasim",
+      "reportedAt": "Mon Jul 08 2019 11:31:41 GMT+0000",
+      "priority": "*Completed Status*: Closed",
+      "reportedBy": "aasim"
+    },
+    {
+      "messageTs": "1562623843.168500",
+      "text": "*Description:*\nHi team, is it possible to \"grab security groups versus OUs. We are wanting to setup a select handful of users to be integrated into Envoy, (not the entire OU) and add individual users to Envoy by just assigning them to a group.\"\n- <mailto:brett.diercks@contactmb.com|brett.diercks@contactmb.com> from Foam Supplies",
+      "company": "*ReTool Link:*\n<https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=19750>",
+      "location": "*Location ID:*\nnull",
+      "reportedAt": "Mon Jul 08 2019 15:41:16 GMT+0000",
+      "priority": "*Completed Status*:\n Open",
+      "reportedBy": "aasim"
+    },
+    {
+      "messageTs": "1562782293.251400",
+      "text": "*Description:*\nWhen the client clicks the button to enable delivery notifications, the settings are not saved,",
+      "company": "*ReTool Link:*\n<https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=63552>",
+      "location": "*Location ID:*\n78470",
+      "reportedAt": "Wed Jul 10 2019 12:46:07 GMT+0000",
+      "priority": "*Completed Status*:\n Open",
+      "reportedBy": "brent"
+    },
+    {
+      "messageTs": "1562691744.236700",
+      "text": "*Description:*\nEven though the Global admin has the correct permissions they're seeing a prompt saying 'Only global admins can enable this integration' when attempting to set up Dropbox",
+      "company": "*ReTool Link:*\n<https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=https://boss.envoy.com/companies/63736>",
+      "location": "*Location ID:*\nnull",
+      "reportedAt": "Wed Jul 10 2019 16:27:16 GMT+0000",
+      "priority": "*Completed Status*:\n Open",
+      "reportedBy": "brent"
+    },
+    {
+      "messageTs": "1562700946.246600",
+      "text": "*Description:*\ncan't get the company name change to stick. video in thread",
+      "company": "*ReTool Link:*\n<https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=39267>",
+      "location": "*Location ID:*\nnull",
+      "reportedAt": "Wed Jul 10 2019 16:27:30 GMT+0000",
+      "priority": "*Completed Status*:\n Open",
+      "reportedBy": "brent"
+    },
+    {
+      "messageTs": "1563220565.294700",
+      "text": "*Description:*\nUser has to click back into Host and reselect same host before arrow becomes available.\n\nConfirmed that they are on the latest Visitors Kiosk and iOS version \nVideo of the issue - <https://cp.sync.com/dl/6fd9188a0/pxe9h4kn-i6hx3tm5-945uq48g-tc6pi4z9>\n\nI paired an iPad to their account and was not able to replicate the issue.  ",
+      "company": "*ReTool Link:*\n<https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=724>",
+      "location": "*Location ID:*\n3376",
+      "reportedAt": "Mon Jul 15 2019 13:07:13 GMT+0000",
+      "priority": "*Completed Status*:\n Open",
+      "reportedBy": "caitlink"
+    },
+    {
+      "messageTs": "1563381991.306100",
+      "text": "*Description:*\nThey set the toggle to on, refresh the page and it reverts back to the off state.\n\nTested and could reproduce on their account",
+      "company": "*ReTool Link:*\n<https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=https://boss.envoy.com/companies/23418>",
+      "location": "*Location ID:*\n70848",
+      "reportedAt": "Wed Jul 17 2019 10:03:14 GMT+0000",
+      "priority": "*Completed Status*:\n Open",
+      "reportedBy": "alexm"
+    },
+    {
+      "messageTs": "1563575222.336100",
+      "text": "*Description:*\nTest for Pivitol",
+      "company": "*ReTool Link:*\n<https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=12345>",
+      "location": "*Location ID:*\n12345",
+      "reportedAt": "Fri Jul 19 2019 15:28:22 GMT+0000",
+      "priority": "*Completed Status*:\n Open",
+      "reportedBy": "aasim"
+    },
+    {
+      "messageTs": "1563811801.005400",
+      "text": "*Description:*\nAccidentally created instead of logging into existing a/c.\nGA request: <https://app.intercom.io/a/apps/shgh0wrr/inbox/inbox/unassigned/conversations/22945059712>",
+      "company": "*ReTool Link:*\n<https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=65795>",
+      "location": "*Location ID:*\nnull",
+      "reportedAt": "Mon Jul 22 2019 10:27:12 GMT+0000",
+      "priority": "*Completed Status*:\n Open",
+      "reportedBy": "cyrus"
+    },
+    {
+      "messageTs": "1563901315.005300",
+      "text": "*Description:*\nCustomer can't access <https://dashboard.envoy.com/settings/visitor-types> -it just takes them to view the flows themselves. Reproduced by bossing in under <https://boss.envoy.com/companies/22784/users/36130>.\n\nOther folks don't see the same it seems to be just for Richard!",
+      "company": "*ReTool Link:*\n<https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=22784>",
+      "location": "*Location ID:*\nnull",
+      "reportedAt": "Wed Jul 24 2019 13:23:22 GMT+0000",
+      "priority": "*Completed Status*:\n Open",
+      "reportedBy": "brent"
+    },
+    {
+      "messageTs": "1563909006.006000",
+      "text": "*Description:*\nUnable to save contact \"IT Notifications (do not remove)\" specifically for \"printer out of paper\" and \"iPad status\" notifications. When entered and saved it shows as saved, but is removed once the page is refreshed. Tested with the TSE team,a nd it was able to save other contacts, but not \"IT Notifications (do not remove)\"",
+      "company": "*ReTool Link:*\n<https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=6031>",
+      "location": "*Location ID:*\nnull",
+      "reportedAt": "Wed Jul 24 2019 13:23:32 GMT+0000",
+      "priority": "*Completed Status*:\n Open",
+      "reportedBy": "brent"
+    },
+    {
+      "messageTs": "1565207265.081000",
+      "text": "*Description:*\nWhen the client (User ID: 743526) sends an invitation via the Visitor's dashboard with 'repeat' turned on, they receive an error message stating: \"Request failed: PATCH <https://app.envoy.com/api/v2/entries/55491928>\"",
+      "company": "*ReTool Link:*\n<https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=65663>",
+      "location": "*Location ID:*\nnull",
+      "reportedAt": "Wed Aug 07 2019 16:55:06 GMT+0000",
+      "priority": "*Completed Status*:\n Open",
+      "reportedBy": "caitlink"
+    },
+    {
+      "messageTs": "1565380046.093200",
+      "text": "*Description:*\nunder settings&gt; notifications: theres no SMS option to enable even though they are on Premium and should have access to SMS",
+      "company": "*ReTool Link:*\n<https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=https://boss.envoy.com/companies/67279>",
+      "location": "*Location ID:*\nnull",
+      "reportedAt": "Fri Aug 09 2019 13:17:16 GMT+0000",
+      "priority": "*Completed Status*:\n Open",
+      "reportedBy": "alexm"
+    },
+    {
+      "messageTs": "1565366901.083600",
+      "text": "*Description:*\nCustomer reported SMS not firing for host notifications, I tested and we're not attempting to send SMS at all for this user. \n\nI've tried toggling the setting off/on again from the location notification settings and the profile notification settings too but it didn't work. \n\nWe're not even listing SMS as a notification item on the visitor entry itself either so it doesn't seem to be attempting to fire at all\n\nExample entry ID: `56666092` ",
+      "company": "*ReTool Link:*\n<https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=14232>",
+      "location": "*Location ID:*\n77505",
+      "reportedAt": "Mon Aug 12 2019 14:26:30 GMT+0000",
+      "priority": "*Completed Status*:\n Open",
+      "reportedBy": "megan"
+    },
+    {
+      "messageTs": "1565634747.099800",
+      "text": "*Description:*\nalso happening for 63273, can recreate on my test account as well 52580 -- seems to be any company i've tested it isn't working.\n\nDoesn't work in the daily view - or through the analytics tab whether its 1 visitor entry or many",
+      "company": "*ReTool Link:*\n<https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=43559>",
+      "location": "*Location ID:*\nnull",
+      "reportedAt": "Mon Aug 12 2019 16:16:54 GMT+0000",
+      "priority": "*Completed Status*:\n Open",
+      "reportedBy": "brent"
+    },
+    {
+      "messageTs": "1565977460.476500",
+      "text": "*Description:*\nHi team, Seagate wrote in stating they are not seeing their directory updated the past few days.    After checking the directory sync log I see the last time the sync ran was on the 11th.  Can we please look into this to get the sync back up and running?  \n\nSeagate has provided their password in case something changed:\n\nj9Sm6q7nUK5uPCDe\n\n",
+      "company": "*ReTool Link:*\n<https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=11700>",
+      "location": "*Location ID:*\nnull",
+      "reportedAt": "Fri Aug 16 2019 12:54:52 GMT+0000",
+      "priority": "*Completed Status*:\n Open",
+      "reportedBy": "brent"
+    },
+    {
+      "messageTs": "1566234988.021500",
+      "text": "*Description:*\nHI Team, Cotivit used to be called Verisk Health but are not Cotiviti.  Their dashboard and Salesforce name is reflected correctly, but the name displayed in Retool reflect Verisk Health.  Can we please update the backend to Cotiviti?  Thank you!",
+      "company": "*ReTool Link:*\n<https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=4580>",
+      "location": "*Location ID:*\nnull",
+      "reportedAt": "Mon Aug 19 2019 10:17:17 GMT+0000",
+      "priority": "*Completed Status*:\n Open",
+      "reportedBy": "cyrus"
+    }
+  ],
+  "technical": [
+    {
+      "threadTs": "1560932475.068780",
+      "text": "text",
+      "company": "Enter the Company ID",
+      "location": "Enter the Location ID",
+      "description": "Enter a description",
+      "category": "SMB",
+      "reportedBy": "aasim"
+    },
+    {
+      "threadTs": "1560963742.775946",
+      "text": "Active Directory Sync Hung",
+      "company": "716",
+      "location": "112897",
+      "description": "Active Directory is hung and it's been hung for 7 hours typical hang time is only 6 hours before it resets, right?",
+      "category": "Enterprise",
+      "reportedBy": "aasim"
+    },
+    {
+      "threadTs": "1560965546.014503",
+      "text": "text",
+      "company": "Enter the Company ID",
+      "location": "Enter the Location ID",
+      "description": "Enter a description",
+      "category": "MM",
+      "reportedBy": "cyrus"
+    },
+    {
+      "threadTs": "1561005156.190958",
+      "text": "text",
+      "company": "Enter the Company ID",
+      "location": "Enter the Location ID",
+      "description": "Enter a description",
+      "category": "MM",
+      "reportedBy": "aasim"
+    },
+    {
+      "threadTs": "1561005346.852674",
+      "text": "text",
+      "issue": "Int",
+      "company": "Enter the Company ID",
+      "location": "Enter the Location ID",
+      "description": "Enter a description",
+      "category": "MM",
+      "reportedBy": "aasim"
+    },
+    {
+      "threadTs": "1561005573.311518",
+      "text": "text",
+      "issue": "Sec",
+      "company": "Enter the Company ID",
+      "location": "Enter the Location ID",
+      "description": "Enter a description",
+      "category": "MM",
+      "reportedBy": "aasim"
+    },
+    {
+      "threadTs": "1561006558.787463",
+      "text": "text",
+      "issue": "Sec",
+      "company": "12345",
+      "location": "Enter the Location ID",
+      "description": "Enter a description",
+      "category": "MM",
+      "reportedBy": "aasim"
+    },
+    {
+      "threadTs": "1561048249.969057",
+      "text": "Add new accounts/boss IDs for Juul regions",
+      "issue": "Int",
+      "company": "22270",
+      "location": "Enter the Location ID",
+      "description": "We're looking to split up Juul's billing by region so they'd like separate accounts:\n-Juul\n-Juul Canada\n-Juul EMEA\n-Juul APAC\n\n\"Juul\" already exists and will be for US locations. None of the EMEA or APAC locations have been created yet, this is in preparation for London and Singapore closing soon.\n\nA Toronto (location ID=78337) location exists within Juul which we would like to migrate to the new Juul Canada instance eventually.",
+      "category": "Enterprise",
+      "reportedBy": "quentin"
+    },
+    {
+      "threadTs": "1561051135.833324",
+      "text": "Azure AD help article leads to 404",
+      "issue": "Int",
+      "company": "n/a",
+      "location": "n/a",
+      "description": "https://help.envoy.com/azure-ad-integration/ leads to 404, can't be searched for in help center",
+      "category": "SMB",
+      "reportedBy": "ericoleynick"
+    },
+    {
+      "threadTs": "1561060590.028039",
+      "text": "{Ignore this is a test}",
+      "issue": "Sec",
+      "company": "12345",
+      "location": "12345",
+      "description": "Disregard\n",
+      "category": "MM",
+      "reportedBy": "aasim"
+    },
+    {
+      "threadTs": "1561063453.942175",
+      "text": "Cancel Wifi trial and test location for Blackhawk Network",
+      "issue": "Int",
+      "company": "3522",
+      "location": "59013",
+      "description": "Not sure if this is the spot to submit this request, but please cancel Wifi trial and test location for Blackhawk Network.",
+      "category": "Enterprise",
+      "reportedBy": "jim"
+    },
+    {
+      "threadTs": "1561143707.383365",
+      "text": "Brivo integration",
+      "issue": "Oth",
+      "company": "https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=28757",
+      "location": "Enter the Location ID",
+      "description": "Orange Silicon Valley is an Enterprise customer that uses Brivo for WiFi. Would be interested in speaking more about this integration if it is something we pursue.",
+      "category": "Enterprise",
+      "reportedBy": "meagan"
+    },
+    {
+      "threadTs": "1561146254.034021",
+      "text": "Brivo integration",
+      "issue": "Other",
+      "company": "https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=28757",
+      "location": "Enter the Location ID",
+      "description": "Orange Silicon Valley is an Enterprise customer that uses Brivo for WiFi. Would be interested in speaking more about this integration if it is something we pursue.",
+      "category": "Enterprise",
+      "reportedBy": "meagan"
+    },
+    {
+      "threadTs": "1561158199.439432",
+      "text": "Linda would like her two user accounts merged if possible",
+      "issue": "General",
+      "company": "6282",
+      "location": "m",
+      "description": "Linda has one employee user ID and one global admin user id she'd like both merged together. Is this possible? https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Users#userID=10195 & https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Users#userID=194573\n\nUser id 194573 should be the one remaining when all is said and done",
+      "category": "MM",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1561418492.130662",
+      "text": "Delete this company/user and all information",
+      "issue": "Security",
+      "company": "55438",
+      "location": "Enter the Location ID",
+      "description": "Global Admin wrote in wanting to delete all company data and the company entirely ",
+      "category": "SMB",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1561479594.313401",
+      "text": "Remove Location HQ401",
+      "issue": "General",
+      "company": "647",
+      "location": "3577",
+      "description": "Can we please remove location HQ401 (3577 ) for MoblieIron? It is currently inactive and they have already forwarded all employees to HQ490 - https://boss.envoy.com/locations/3577",
+      "category": "MM",
+      "reportedBy": "ahmad"
+    },
+    {
+      "threadTs": "1561486183.182233",
+      "text": "SOC2 Report - Customer Renewal",
+      "issue": "General",
+      "company": "36870",
+      "location": "Enter the Location ID",
+      "description": "Duo Security (vtoscano@duosecurity.com)  needs a SOC2 report so they are able to have a PO issued to them.",
+      "category": "MM",
+      "reportedBy": "ahmad"
+    },
+    {
+      "threadTs": "1561488488.424901",
+      "text": "Merge Email Addresses",
+      "issue": "General",
+      "company": "37305",
+      "location": "Enter the Location ID",
+      "description": "Charlotte Metin created a profile by mistake and the account isn't recognizing her during logging in.  The email that is corect/working is charlotte.metin@rozettatechnology.com.au, but she wants charlotte.metin@rozettatechnology.com to be her one and only account email. Can you please merge both emails as charlotte.metin@rozettatechnology.com so she can sign in?",
+      "category": "MM",
+      "reportedBy": "ahmad"
+    },
+    {
+      "threadTs": "1561505326.674491",
+      "text": "No way to export this company's employee directory",
+      "issue": "Other",
+      "company": "20611",
+      "location": "Enter the Location ID",
+      "description": "there's no export button on the employee directory page - user needs to export directory for an audit.",
+      "category": "SMB",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1561563150.024827",
+      "text": "Delete location 42998",
+      "issue": "General",
+      "company": "42998",
+      "location": "Enter the Location ID",
+      "description": "Customer created this account as a test and will be recreating a new account. Wants to delete account to avoid any future issues",
+      "category": "SMB",
+      "reportedBy": "kkeelan"
+    },
+    {
+      "threadTs": "1561566661.816013",
+      "text": "Google Hangout Duplicate Notifications",
+      "issue": "Integration",
+      "company": "61554",
+      "location": "Enter the Location ID",
+      "description": "Notifications on Google Hangout are sending at least 5 times for a visitor logs. I had the customer uninstall/reinstall the integration but this still continues to happen. I also checked in Plugins V2 but it gives no detailed error. I did notice that they have a basic account, and this is available on premium and up. \n\nhttps://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=61554",
+      "category": "SMB",
+      "reportedBy": "ahmad"
+    },
+    {
+      "threadTs": "1561566806.820631",
+      "text": "Delete user info",
+      "issue": "Other",
+      "company": "https://boss.envoy.com/companies/18916",
+      "location": "null",
+      "description": "They were added to a co-working site's directory and want their info deleted so they can create their own a/c \n\nhttps://boss.envoy.com/users/716929",
+      "category": "SMB",
+      "reportedBy": "megan"
+    },
+    {
+      "threadTs": "1561567340.310075",
+      "text": "Delete Kittyhawk locations and move delivery area",
+      "issue": "Other",
+      "company": "https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=11371",
+      "location": "13056, 55151, 13058, 25517",
+      "description": "Delete HQ, Atlanta, Bayshore, and CVH2 locations from Kittyhawk (https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=11371).\n\n-and-\n\nPlease move the Delivery Area (1st Floor: Shipping/Receiving) from Kittyhawk (https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=11371) to Cora (https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=63552) and associate with the HQ location.",
+      "category": "MM",
+      "reportedBy": "meagan"
+    },
+    {
+      "threadTs": "1561571280.388651",
+      "text": "Change Company Name",
+      "issue": "General",
+      "company": "6448",
+      "location": "Enter the Location ID",
+      "description": "Company was renamed can we change their name on our end to \"Star\" // request: https://signwithenvoy.zendesk.com/agent/tickets/57918",
+      "category": "SMB",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1561574378.316280",
+      "text": "Whitelist IP ",
+      "issue": "General",
+      "company": "1853",
+      "location": "78404",
+      "description": "User is unable to configure new ipad and shows that the ip address on the on the ipad is being blocked  (49.255.94.90). The ipad is located in Sydney although computer is located in Singapore.",
+      "category": "MM",
+      "reportedBy": "ahmad"
+    },
+    {
+      "threadTs": "1561576010.499035",
+      "text": "Can we please delete location 74489 ",
+      "issue": "General",
+      "company": "48414",
+      "location": "74489",
+      "description": "Netflix (ID: 48414) wants their test account location ICON Building deleted (ID: 74489)",
+      "category": "MM",
+      "reportedBy": "isabel"
+    },
+    {
+      "threadTs": "1561581987.736927",
+      "text": "Slack Notifications by Sign in flow",
+      "issue": "Integration",
+      "company": "Enter the Company ID",
+      "location": "Enter the Location ID",
+      "description": "Had a client reach out who said the following: Regarding the sign-in flow, are we able to set visitor type as a drop down option (interview candidate, FDA, guest, etc.) and have different notifications based on the visitor type or have the notification go to a different slack channel based on the visitor type?",
+      "category": "SMB",
+      "reportedBy": "haley"
+    },
+    {
+      "threadTs": "1561583931.833538",
+      "text": "Delete locations/delivery areas for Compass",
+      "issue": "Other",
+      "company": "https://boss.envoy.com/companies/2902",
+      "location": "Enter the Location ID",
+      "description": "Can we delete the following locations:\nGold Coast\t\t\nLos Gatos\t\t\nMarket Street\t\t\nMiami Beach\t\t\nPasadena\t\t\nRiver North\t\t\nSanta Monica\t\t\n111 5th ave\t\t\nArlington\t\t\nBrentwood\t\t\nBucktown\t\t\nCambridge\t\t\nCarmel Valley\t\t\nChelsea\t\t\nChestnut Hill\t\t\nChevy Chase\t\t\nCoconut Grove\t\t\nDallas HQ\t\t\nDanville\n\nAnd the following delivery areas:\nCompass Arlington\nCompass Chevy Chase\nCompass Georgetown\nHQ Reception\n\nConfirmed with compass - request from Amanda E ( I tried deleting them but got 500 errors)",
+      "category": "MM",
+      "reportedBy": "megan"
+    },
+    {
+      "threadTs": "1561585706.519615",
+      "text": " (Uber) Aruba ClearPass: Unknown",
+      "issue": "Integration",
+      "company": "470",
+      "location": "14713",
+      "description": "I ran a few tests and the clearpass integration for Uber gives an Aruba ClearPass: unknown message under the wifi. At one point it had the circling motion as if it was stuck, but they all come in saying unknown. ",
+      "category": "Enterprise",
+      "reportedBy": "ahmad"
+    },
+    {
+      "threadTs": "1561648346.507523",
+      "text": "SAML Integration: \"Sorry, an error occurred while processing your request.\"",
+      "issue": "Integration",
+      "company": "12938",
+      "location": "Enter the Location ID",
+      "description": "User says this occurs when they use their SAML ldp provided here: https://start.uptake.com/sso/SSORedirect/metaAlias/uptake/idp. When assisting she  updated the Entity ID to: https://app.envoy.com/a/saml/metadata/ and the SAML URL to https://app.envoy.com/a/saml/consume/ but still not able to work on her end. ",
+      "category": "Enterprise",
+      "reportedBy": "ahmad"
+    },
+    {
+      "threadTs": "1561655217.046969",
+      "text": "can you guys hard delete this employee please",
+      "issue": "Other",
+      "company": "18916",
+      "location": "24381, 54545, 23614, 21923",
+      "description": "https://dashboard.envoy.com/employees/8273331 - email mihai.zaharia@globalworth.com ticket request https://signwithenvoy.zendesk.com/agent/tickets/57980",
+      "category": "MM",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1561666478.312561",
+      "text": "Brivo Integration Request",
+      "issue": "Integration",
+      "company": "7850",
+      "location": "8835",
+      "description": "Plaid (currently a Standard customer) would be interested in upgrading if we had a Brivo integration",
+      "category": "MM",
+      "reportedBy": "patrick"
+    },
+    {
+      "threadTs": "1561666927.142583",
+      "text": "Customer can invite Slack bot into channels",
+      "issue": "Integration",
+      "company": "Enter the Comp 35607 any ID",
+      "location": "Enter the Location ID",
+      "description": "Added 35607 to the split for dms only in Slack and account is still able to invite bot to other channels. Can we see why?",
+      "category": "SMB",
+      "reportedBy": "kkeelan"
+    },
+    {
+      "threadTs": "1561671037.671687",
+      "text": "ID Scanning persists even when disabled",
+      "issue": "Other",
+      "company": "41721",
+      "location": "78406",
+      "description": "ID scanning is not enabled but still prompting visitors to scan their ID. Able to reproduce on their account with my iPad but not on my own account. Can someone please take a look?",
+      "category": "SMB",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1561742234.307010",
+      "text": "AD Question re: Powershell",
+      "issue": "Integration",
+      "company": "7718",
+      "location": "Enter the Location ID",
+      "description": "Customer is inquiring about AD powershell needed: We don’t have powershell 3.0 on our domain controllers. We only have powershell 2.0.  The cron job says it requires 3.0 in the script.  Is there another way to get around this without upgrading to powershell 3",
+      "category": "SMB",
+      "reportedBy": "haley"
+    },
+    {
+      "threadTs": "1561755034.517065",
+      "text": "Please stop CSV upload",
+      "issue": "General",
+      "company": "Enter the Company ID",
+      "location": "Enter the Location ID",
+      "description": "Please stop the CSV upload\n\nhttps://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=53388\n\nID: 53388",
+      "category": "SMB",
+      "reportedBy": "isabel"
+    },
+    {
+      "threadTs": "1561760676.427942",
+      "text": "request API access",
+      "issue": "Integration",
+      "company": "13703",
+      "location": "Enter the Location ID",
+      "description": "\"We are looking to integrate our coworking management software (Satellite Deskworks) with Envoy. Could their development team get access to review your API to see if this integration is possible?\"",
+      "category": "SMB",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1561760891.180006",
+      "text": "Please complete ACH request for Cardinal Innovations Healthcare",
+      "issue": "General",
+      "company": "52444",
+      "location": "Enter the Location ID",
+      "description": "Please generate by EOD today",
+      "category": "MM",
+      "reportedBy": "bri"
+    },
+    {
+      "threadTs": "1562001910.642346",
+      "text": "Switch email accounts",
+      "issue": "General",
+      "company": "64326",
+      "location": "Enter the Location ID",
+      "description": "operations@betterlesson.com was entered by mistake. can we please remove and add operations@appcues.com? Currently see that she has 2 so it may be best to remove the operations@betterlesson.com email.",
+      "category": "MM",
+      "reportedBy": "ahmad"
+    },
+    {
+      "threadTs": "1562020211.892135",
+      "text": "Remove Locations",
+      "issue": "General",
+      "company": "5597",
+      "location": "Enter the Location ID",
+      "description": "Can we please remove all locations except San Francisco, Silicon Valley, Los Angeles and San Diego. These are sites that do not currently use Envoy any longer.",
+      "category": "MM",
+      "reportedBy": "ahmad"
+    },
+    {
+      "threadTs": "1562032093.879650",
+      "text": "Help with Ticket 58041",
+      "issue": "Integration",
+      "company": "Enter the Company 53166 ID",
+      "location": "Enter the Location ID",
+      "description": "https://signwithenvoy.zendesk.com/agent/tickets/58041\n\nMegan and Alex working on but we are not able to resolve yet can you give us advice/help ",
+      "category": "SMB",
+      "reportedBy": "kkeelan"
+    },
+    {
+      "threadTs": "1562083788.636071",
+      "text": "Delete invites",
+      "issue": "Other",
+      "company": "50524 ",
+      "location": "Enter the Location ID",
+      "description": "Customer is showing 5343 Invites in logs. They are asking for us to clear those out.\n\nhttps://app.intercom.io/a/apps/shgh0wrr/inbox/inbox/2688325/conversations/22694904723",
+      "category": "SMB",
+      "reportedBy": "kkeelan"
+    },
+    {
+      "threadTs": "1562086666.426995",
+      "text": "Microsoft Teams - global integration version upcoming?",
+      "issue": "Integration",
+      "company": "n/a",
+      "location": "n/a",
+      "description": "Hi squad, \n\nIt's currently unclear from the help center documentation and the integrations page that Teams will only work at the first location it is installed at. \n\nIs Teams soon to become a global integration? \n\nTY!",
+      "category": "MM",
+      "reportedBy": "ericoleynick"
+    },
+    {
+      "threadTs": "1562160631.421466",
+      "text": "Change of email address",
+      "issue": "General",
+      "company": "31185",
+      "location": "Enter the Location ID",
+      "description": "customer needs to change email address from v448060@amerisourcebergen.com to catarina.lindstrom@americourcebergen.com\n\nUser ID: 550580",
+      "category": "MM",
+      "reportedBy": "kkeelan"
+    },
+    {
+      "threadTs": "1562161677.347154",
+      "text": "Whitelist For Azsure AD",
+      "issue": "Integration",
+      "company": "59975",
+      "location": "Enter the Location ID",
+      "description": "Can we please whitelist Gensler  for access to Envoy Azure AD integration I cannot find the split to enable this for them.",
+      "category": "SMB",
+      "reportedBy": "kkeelan"
+    },
+    {
+      "threadTs": "1562165082.552335",
+      "text": "SAML Authentication",
+      "issue": "Integration",
+      "company": "51028",
+      "location": "Enter the Location ID",
+      "description": "Has anything changed in the SAML authentication? Shows \"employee not found\". I followed guru guidelines but don't see the admin as part of multiple accounts to make primary. Is there any type of log that shows what we get back for the identifier Avause1@jh.edu? \n\nThey also made some changes on their end: the nameid-format:unspecified has been deprecated (currently identifier is: urn:oasis:names:tc:SAML:1.1:nameid-format:unspecified).\n\nTicket: https://signwithenvoy.zendesk.com/agent/tickets/57944\n",
+      "category": "MM",
+      "reportedBy": "ahmad"
+    },
+    {
+      "threadTs": "1562169489.122511",
+      "text": "delete a location",
+      "issue": "Other",
+      "company": "12028",
+      "location": "14523",
+      "description": "company would like to delete \"Receiving\" location",
+      "category": "SMB",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1562192172.624547",
+      "text": "text",
+      "issue": "Other",
+      "company": "47793",
+      "location": "null",
+      "description": "delete user https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Users#userID=724425 and https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Users#userID=719936 from company 47793",
+      "category": "SMB",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1562194512.113410",
+      "text": "delete 2 locations",
+      "issue": "Other",
+      "company": "48905",
+      "location": "56889 and 56888",
+      "description": "delete locations Willowbrook Mall and Woodlands mall",
+      "category": "SMB",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1562196298.847923",
+      "text": "rest api access",
+      "issue": "Integration",
+      "company": "55080",
+      "location": "Enter the Location ID",
+      "description": "REST API Access -- https://signwithenvoy.zendesk.com/agent/tickets/58372 ",
+      "category": "Enterprise",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1562598733.067565",
+      "text": "Remove Location",
+      "issue": "General",
+      "company": "32319",
+      "location": "37497",
+      "description": "Global Admin requesting to remove their only location, and only wants the delivery area. \"Can we keep the deliveries module without the visitors module?\"\n\nDoesn't need any past data. \n\nhttps://app.intercom.io/a/apps/shgh0wrr/inbox/inbox/unassigned/conversations/22769797099",
+      "category": "MM",
+      "reportedBy": "ahmad"
+    },
+    {
+      "threadTs": "1562599226.877007",
+      "text": "Remove Location",
+      "issue": "General",
+      "company": "9000",
+      "location": "29952",
+      "description": "Global Admin of the account requesting to remove the Grand Prairie location \n\nhttps://app.intercom.io/a/apps/shgh0wrr/inbox/inbox/2924456/conversations/22769951948",
+      "category": "MM",
+      "reportedBy": "ahmad"
+    },
+    {
+      "threadTs": "1562600896.415124",
+      "text": "delete user",
+      "issue": "Other",
+      "company": "33561",
+      "location": "null",
+      "description": "https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Users#userID=458606\n\nCan we delete this user fully? There's no \"Deleted At\" date but they're not in any location. Causing an error with the Deliveries app and selecting the deleted employee when they mean to select the one with the right email associated.\n",
+      "category": "SMB",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1562607557.893678",
+      "text": "delete this company",
+      "issue": "Other",
+      "company": "64039",
+      "location": "Enter the Location ID",
+      "description": "https://signwithenvoy.zendesk.com/agent/tickets/58113 - user created a trial to test out integrations and now would like it deleted",
+      "category": "SMB",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1562616935.636483",
+      "text": "delete . Location",
+      "issue": "Other",
+      "company": "35357",
+      "location": "74151",
+      "description": "delete inactive location - location name: . ",
+      "category": "SMB",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1562622980.873154",
+      "text": "Removal of YourAlley Location",
+      "issue": "General",
+      "company": "650",
+      "location": "31884",
+      "description": "Can you please remove the YourAlley FiDi location (Company ID 650, Location ID 31884) ? \n\nhttps://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=650",
+      "category": "SMB",
+      "reportedBy": "harrison.garovi"
+    },
+    {
+      "threadTs": "1562686335.565218",
+      "text": "Delete dupe a/c please",
+      "issue": "General",
+      "company": "https://boss.envoy.com/companies/64203",
+      "location": "Enter the Location ID",
+      "description": "This user created a new Etsy account instead of logging into the official account: https://boss.envoy.com/users/718071\n\nCan we delete his user profile & the company please?",
+      "category": "SMB",
+      "reportedBy": "megan"
+    },
+    {
+      "threadTs": "1562687170.305975",
+      "text": "Wipe phone numbers from directory",
+      "issue": "Integration",
+      "company": "Enter thehttps://boss.envoy.com/companies/59975 Company ID",
+      "location": "Enter the Location ID",
+      "description": "Company added work phone numbers instead of mobile and now can't wipe the work phone for employees with no mobile number who they'd like to be left blank.\n\nThank you 🎩",
+      "category": "SMB",
+      "reportedBy": "megan"
+    },
+    {
+      "threadTs": "1562693022.388743",
+      "text": "cisco ise failing",
+      "issue": "Integration",
+      "company": "43344",
+      "location": "50036",
+      "description": "it is working now but they had a series of failures where the reason was \"Something went wrong, sorry we don't know more\" and they would like some insight as to what went wrong if we can provide it.",
+      "category": "MM",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1562696646.931072",
+      "text": "Integration with Bluepoint security system",
+      "issue": "Integration",
+      "company": "372",
+      "location": "12182",
+      "description": "Stripe's London office is installing Bluepoint turnstiles, and all guests now have to register in the lobby via Bluepoint + sign in via Envoy when they reach Stripes office in the multitenant building. \n\nIs there some way to create a pre-registration entry in Bluepoint every time a Stripe employee invites a guest via Envoy? \n\nhttps://www.bluepoint.uk.com/",
+      "category": "MM",
+      "reportedBy": "ericoleynick"
+    },
+    {
+      "threadTs": "1562708431.064299",
+      "text": "Anonymous Data, Data Retention Policy",
+      "issue": "Security",
+      "company": "64293",
+      "location": "79714",
+      "description": "Hey guys, I have a client who is inquiring about anonymous data. They want their visitor's information to be deleted after a set period of time.",
+      "category": "SMB",
+      "reportedBy": "harrison.garovi"
+    },
+    {
+      "threadTs": "1562774099.967489",
+      "text": "rest api access",
+      "issue": "Other",
+      "company": "37032",
+      "location": "Enter the Location ID",
+      "description": "https://signwithenvoy.zendesk.com/agent/tickets/58624 they have an ae/csm and would like access to our rest api.\n\n\"Use Case: dumping envoy data into a file for a Power BI database\"",
+      "category": "Enterprise",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1562776778.839376",
+      "text": "Can we please delete a user from this merged account",
+      "issue": "General",
+      "company": "870",
+      "location": "Enter the Location ID",
+      "description": "Company ID: 870\nUser email: la-reception@methodstudios.com\n\nThey need to login to the primary account but the duplicate is giving them trouble",
+      "category": "Enterprise",
+      "reportedBy": "isabel"
+    },
+    {
+      "threadTs": "1562778100.939283",
+      "text": "delete 2 companies",
+      "issue": "General",
+      "company": "45299",
+      "location": "Enter the Location ID",
+      "description": "customer accidentally created 3 companies instead of the 1 he wanted and is now running into errors while trying to add admins. \n\nCan we please delete companies 45299 and 49644 - I tried both but got an error.",
+      "category": "SMB",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1562778503.988283",
+      "text": "change company name",
+      "issue": "General",
+      "company": "11214",
+      "location": "Enter the Location ID",
+      "description": "change company name to \"Drop\" - their wifi credential emails are sending with their old company name.",
+      "category": "SMB",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1562782599.729906",
+      "text": "Delete dupe account",
+      "issue": "General",
+      "company": "https://boss.envoy.com/companies/20792",
+      "location": "Enter the Location ID",
+      "description": "User created new a/c instead of signing into existing one",
+      "category": "SMB",
+      "reportedBy": "megan"
+    },
+    {
+      "threadTs": "1562782959.244002",
+      "text": "Need help troubleshooting Meraki setup for Qualys",
+      "issue": "Integration",
+      "company": "717",
+      "location": "Enter the Location ID",
+      "description": "Credentials are being generated and sent to visitors but WiFi network is not accepting password/ still signing in to generic guest network.",
+      "category": "MM",
+      "reportedBy": "bri"
+    },
+    {
+      "threadTs": "1562887385.319412",
+      "text": "aruba clearpass SMS not working",
+      "issue": "Integration",
+      "company": "5671",
+      "location": "13730",
+      "description": "When a visitor signs in with ONLY phone number the clearpass crednetials dont generate. Error message on dashboard is \"Unknown\" however on retool the reason it didn't work was \"No Email Address for Visitor\"\n\nThe help doc says that this will work with either Email or SMS. Can someone help?",
+      "category": "MM",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1562889023.221590",
+      "text": "Company name change",
+      "issue": "General",
+      "company": "https://boss.envoy.com/companies/58202",
+      "location": "Enter the Location ID",
+      "description": "Company name change from `Mikron SA Agno` to `Mikron` please\n\nGA request: https://signwithenvoy.zendesk.com/agent/tickets/58634",
+      "category": "SMB",
+      "reportedBy": "megan"
+    },
+    {
+      "threadTs": "1562889147.303498",
+      "text": "Delete locations",
+      "issue": "General",
+      "company": "https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=37295",
+      "location": "64141, 64142",
+      "description": "Can we delete the Bridge Housing (64141) and Chavez (64142) locations from this account? They never actually used them and have already reduced their subscription",
+      "category": "MM",
+      "reportedBy": "meagan"
+    },
+    {
+      "threadTs": "1562947622.580796",
+      "text": "Location Deletion",
+      "issue": "General",
+      "company": "37163",
+      "location": "80902",
+      "description": "Can we please delete the South Bay location for Indeed?",
+      "category": "Enterprise",
+      "reportedBy": "isabel"
+    },
+    {
+      "threadTs": "1562948926.202807",
+      "text": "azure assistance",
+      "issue": "Integration",
+      "company": "62987",
+      "location": "null",
+      "description": "https://signwithenvoy.zendesk.com/agent/tickets/58713\n\nThis customer has had some trouble with azure phone numbers. He has it mapped to have mobile number pull into Envoy but no matter what we try it still pulls in the office number. ",
+      "category": "SMB",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1562953415.288161",
+      "text": "rest api access",
+      "issue": "Integration",
+      "company": "52446",
+      "location": "null",
+      "description": "they have an AE and would like access to our API to \"We would like to have the API access token. We are trying to automate the process of updating our employee directory; we are currently looking into writing a script that will assist in this process but we will need the access token to be able to import the updated csv file into envoy.\"",
+      "category": "MM",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1562954426.451433",
+      "text": "Please delete contact from incorrect trial account",
+      "issue": "Other",
+      "company": "58202 (active account) ",
+      "location": "Enter the Location ID",
+      "description": "Please delete Sara Michaels\nsara.michaels@mikron.com from 60409 so that she may be added to Mikron's active account 58202. ",
+      "category": "MM",
+      "reportedBy": "bri"
+    },
+    {
+      "threadTs": "1562959714.133933",
+      "text": "Delete old trial account",
+      "issue": "General",
+      "company": "39805",
+      "location": "Enter the Location ID",
+      "description": "Customer is trying to set up a new trial but 2018 trial is not letting them. Unable to delete in boss\n\nhttps://app.intercom.io/a/apps/shgh0wrr/inbox/inbox/unassigned/conversations/22834249333",
+      "category": "SMB",
+      "reportedBy": "kkeelan"
+    },
+    {
+      "threadTs": "1563223806.504763",
+      "text": "meraki unable to be installed",
+      "issue": "Integration",
+      "company": "53698",
+      "location": "all",
+      "description": "Gets the error \"error loading select options. Please select your network first\" (screenshot attached)",
+      "category": "MM",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1563289735.347454",
+      "text": "Clear directory",
+      "issue": "Other",
+      "company": "50150",
+      "location": "Enter the Location ID",
+      "description": "I tried clearing it via Boss but it doesn't appear to be working - global admin requested it.",
+      "category": "SMB",
+      "reportedBy": "megan"
+    },
+    {
+      "threadTs": "1563303081.536699",
+      "text": "Swap bank info between two accounts",
+      "issue": "Other",
+      "company": "62711 & 63343",
+      "location": "Enter the Location ID",
+      "description": "Enter a descriptionhttps://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=62711\n\nThis is one that has payment on it but is not set up\nhttps://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=63343    This one is the one they would like to be the primary account",
+      "category": "MM",
+      "reportedBy": "ed"
+    },
+    {
+      "threadTs": "1563314514.001719",
+      "text": "Can we delete this a/c's data on a rolling 30 day basis",
+      "issue": "Security",
+      "company": "55273",
+      "location": "Enter the Location ID",
+      "description": "Can we delete this data on a 30 day rolling basis please? GA request: https://signwithenvoy.zendesk.com/agent/tickets/58448",
+      "category": "MM",
+      "reportedBy": "megan"
+    },
+    {
+      "threadTs": "1563369452.670017",
+      "text": "FW: Support for Cisco ISE Integration (Comtech)",
+      "issue": "Integration",
+      "company": "59204",
+      "location": "Enter the Location ID",
+      "description": "David Schulman wrote in to the team tse alias yesterday morning asking the below. Please reply to that thread at your earliest convenience. \n\nStep 5 suggests to Whitelist IP Addresses.  They have two IP addresses in the documentation:\n\n54.84.138.60 (Envoy production)\n54.84.66.109 (development & troubleshooting)\nWhen I ping envoy.com I get 104.18.166.229\n\nI guess I’ll go with 104.18.166.229.  Does that sound correct?",
+      "category": "MM",
+      "reportedBy": "bri"
+    },
+    {
+      "threadTs": "1563391809.419973",
+      "text": "I want to change the email address on my account",
+      "issue": "General",
+      "company": "34594",
+      "location": "40139",
+      "description": "I have a client Ben Jun, who requested via chat to change their email from bernert@hvflabs.com to ben@hvflabs.com. Apparently, a secondary member of the same company Brian Bernert, currently has the same email associated with their account, bernert@hvflabs.com. \n\nI believe it was Brian who was initially chatting in, not Ben. The Zendesk ticket that was created is under Brian's name. Can we give Ben and Brian non-matching email addresses?",
+      "category": "SMB",
+      "reportedBy": "harrison.garovi"
+    },
+    {
+      "threadTs": "1563399598.303726",
+      "text": "Salesforce integration debugging (Oscor - ID 23243)",
+      "issue": "Integration",
+      "company": "23243",
+      "location": "null",
+      "description": "Brent mentioned I should create a ticket around this in CLE today. \n\nOscor's v1 SFDC integration is stuck \"in_progress\" for the majority of all visitor entries. I've recommended they set up the v2 integration, but can we identify what the issue is with this version?\n\nTY!",
+      "category": "SMB",
+      "reportedBy": "ericoleynick"
+    },
+    {
+      "threadTs": "1563407825.182108",
+      "text": "Can we add this person as a Global Admin please?",
+      "issue": "Security",
+      "company": "Enter the C15075ompany ID",
+      "location": "Enter the Location ID",
+      "description": "Can we add this person as a Global Admin please? All admins were deleted and they're trying gain access - confirmed their identity:\nhttps://boss.envoy.com/users/76138",
+      "category": "SMB",
+      "reportedBy": "megan"
+    },
+    {
+      "threadTs": "1563467895.815521",
+      "text": "Can we delete this duplicate account please",
+      "issue": "General",
+      "company": "64582",
+      "location": "Enter the Location ID",
+      "description": "Can we delete this duplicate account please? It was created accidentally! Thanks :)",
+      "category": "SMB",
+      "reportedBy": "megan"
+    },
+    {
+      "threadTs": "1563486771.857587",
+      "text": "Can we export all NDAs for Jyve please?",
+      "issue": "General",
+      "company": "62335",
+      "location": "Enter the Location ID",
+      "description": "They recently set up a new file storage system and want to import all their signed legal documents. GA request: https://signwithenvoy.zendesk.com/agent/tickets/59137\n\nFolder to import into: https://jyvecorporation.app.box.com/folder/82262431359\n\nThank you 🙌",
+      "category": "SMB",
+      "reportedBy": "megan"
+    },
+    {
+      "threadTs": "1563488536.438809",
+      "text": "Enable Aerohive Wifi Integration",
+      "issue": "Integration",
+      "company": "63275",
+      "location": "Enter the Location ID",
+      "description": "InsideSource, a current prospect with 10 locations, is evaluating Envoy and their Head of IT utilizes Aerohive throughout their locations. It's perfect for his company and he needs to stop his receptionists from handing out guest wifi passwords. I've explained that Aerohive integration is something we support, but Aerohive's team has not met our expectations as a technology partner - he was still okay with it and as one of their largest customers (in his mind) still needs to integrate it especially for wifi access in locations without a receptionist.",
+      "category": "MM",
+      "reportedBy": "mike"
+    },
+    {
+      "threadTs": "1563812101.387544",
+      "text": "Can we update the email on this account please? ",
+      "issue": "General",
+      "company": "Enter the Co63161mpany ID",
+      "location": "Enter the Location ID",
+      "description": "Customer wants to use it@payclip.com instead of gerardo.pineda@payclip.com please!",
+      "category": "SMB",
+      "reportedBy": "megan"
+    },
+    {
+      "threadTs": "1563818006.804811",
+      "text": "Delete newest Bangalore Location",
+      "issue": "Other",
+      "company": "17971",
+      "location": "81764",
+      "description": "I got a 503 error when trying to delete - global admin wrote in saying it was an accident creating the second (newest) bangalore location",
+      "category": "Enterprise",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1563818637.383405",
+      "text": "Please hide all employees as hosts on visitor kiosk",
+      "issue": "General",
+      "company": "2156",
+      "location": "null",
+      "description": "Collective Health doesn't want any employees names to auto-populate in the host field when visitors check in.\n\nCan we please hide all employees from the kiosk app?\n\nThanks!",
+      "category": "MM",
+      "reportedBy": "isabel"
+    },
+    {
+      "threadTs": "1563831695.906105",
+      "text": "update across all locations not working",
+      "issue": "General",
+      "company": "26957",
+      "location": "all",
+      "description": "For the final screen when we upload a picture to the final screen and then click \"update across 1 locations\" then select them all it says it was successful but when you check another location it still says Enable on the final screen page... I was able to reproduce on my test account as well. Can someone assist? \n",
+      "category": "Enterprise",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1563898462.635954",
+      "text": "Delete \"Greensburg\"",
+      "issue": "General",
+      "company": "54014",
+      "location": "65478",
+      "description": "Please delete the Greensberg location - i got a 500 error when i tried :( ",
+      "category": "SMB",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1563903715.700628",
+      "text": "Saving contacts in device status notifications",
+      "issue": "General",
+      "company": "6031",
+      "location": "Enter the Location ID",
+      "description": "Unable to save contact for \"printer out of paper\" and \"iPad status\" notification. When entered and saved it shows as saved, but is removed once the page is refreshed. \n\nhttps://signwithenvoy.zendesk.com/agent/tickets/59319",
+      "category": "MM",
+      "reportedBy": "ahmad"
+    },
+    {
+      "threadTs": "1563921941.036158",
+      "text": "Task: single location directory deletion",
+      "issue": "Other",
+      "company": "10122",
+      "location": "23030",
+      "description": "Hi squad,\n\nCan you please remove all employee records from Sidley's Dallas location? They are not using Envoy there anymore and want to deactivate it (but retain all visitor records). \n\nDallas location ID is: 23030\ncompany ID: 10122\n\nthank you!",
+      "category": "Enterprise",
+      "reportedBy": "ericoleynick"
+    },
+    {
+      "threadTs": "1563922513.280677",
+      "text": "change email adress and company name",
+      "issue": "General",
+      "company": "26579",
+      "location": "Enter the Location ID",
+      "description": "switch procurement@captain401.com to procurement@humaninterest.com (https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Users#userID=239686) and change company name to Human Interest",
+      "category": "SMB",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1563985841.976314",
+      "text": "Q on AD sync best practice: new and existing records",
+      "issue": "Integration",
+      "company": "4622",
+      "location": "null",
+      "description": "Hi team, \n\nRegarding the Active Directory integration:\n\"Instead of what seems to be a full overwrite can we consolidate new and existing data?\"\n\n^ Can you tell me how to best address this question? If the existing data is not available in their AD OU's, do they need to export the records and import them somehow to AD before they set up the script?\n\nTY!",
+      "category": "MM",
+      "reportedBy": "ericoleynick"
+    },
+    {
+      "threadTs": "1563986953.262176",
+      "text": "Ignore",
+      "issue": "Integration",
+      "company": "Ignore",
+      "location": "Ignore",
+      "description": "Ignore ",
+      "category": "Enterprise",
+      "reportedBy": "aasim"
+    },
+    {
+      "threadTs": "1563994575.040816",
+      "text": "Data Anonymization/Deletion",
+      "issue": "Security",
+      "company": "9789",
+      "location": "Three locations; Seattle: 58965 Lab: 21859 Vancouver: 11234",
+      "description": "Client: Zymeworks\nNeed to do data deletion of everything and photo records every six  months and 1) want to be notified and 2) want to automatically export what they have prior to the deletion so they have record of  it for all three of their locations.\n\nI looked in Guru but couldn't see how you could request they get a full export prior to the deletion or if they would set this up on their end using the open API endpoints",
+      "category": "SMB",
+      "reportedBy": "haley"
+    },
+    {
+      "threadTs": "1564007976.271812",
+      "text": "API Access",
+      "issue": "Integration",
+      "company": "25613",
+      "location": "Enter the Location ID",
+      "description": "Akami would like API access because \"We have a use case, where we need to retrieve the visitor information via APIs to store them locally for PCI-DSS and FedRAMP norms. Request you to provide the client ID and client secret for us to proceed.\"\n\nTicket if needed",
+      "category": "Enterprise",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1564068954.899245",
+      "text": "Can we delete this user please?",
+      "issue": "General",
+      "company": "13703",
+      "location": "Enter the Location ID",
+      "description": "They're part of a co-working a/c currently and want to create a new account under their email address: \n\nEmployee ID: `549716`",
+      "category": "SMB",
+      "reportedBy": "megan"
+    },
+    {
+      "threadTs": "1564071143.714189",
+      "text": "Client Wants To Delete Their Company",
+      "issue": "General",
+      "company": "64198",
+      "location": "Enter the Location ID",
+      "description": "I have a client (Client ID: 718028) who is requesting to have their company (Company ID: 64198) deleted. They're the only member of the company and it was originally listed as their default company by mistake. I fixed that mistake and made the company that they want deleted their secondary. I posted a thread in Squad-support and the support specialist who helped me was receiving a 500 error when trying to delete the company.\n\nZendesk Ticket: https://signwithenvoy.zendesk.com/agent/tickets/59186\n\nCompany's Retool Link: https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=64198",
+      "category": "SMB",
+      "reportedBy": "harrison.garovi"
+    },
+    {
+      "threadTs": "1564071950.471285",
+      "text": "text",
+      "issue": "General",
+      "company": "Enter the Company ID",
+      "location": "Enter the Location ID",
+      "description": "Enter a description",
+      "category": "SMB",
+      "reportedBy": "aasim"
+    },
+    {
+      "threadTs": "1564073130.557472",
+      "text": "delete company",
+      "issue": "Other",
+      "company": "59013",
+      "location": "Enter the Location ID",
+      "description": "company was made by mistake and is causing login problems",
+      "category": "SMB",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1564076352.490812",
+      "text": "delete all employees",
+      "issue": "Other",
+      "company": "8808",
+      "location": "Enter the Location ID",
+      "description": "company has ~270 manually added users and wants them deleted. Can we please assist them? ",
+      "category": "SMB",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1564080524.564146",
+      "text": "Can we delete this location please?",
+      "issue": "General",
+      "company": "4760",
+      "location": "33867",
+      "description": "I'm seeing a 500 error when I try so I'm not sure if it's been deleted correctly or not yet!",
+      "category": "SMB",
+      "reportedBy": "megan"
+    },
+    {
+      "threadTs": "1564097528.972968",
+      "text": "Assistants w Azure AD",
+      "issue": "Integration",
+      "company": "15915",
+      "location": "Enter the Location ID",
+      "description": "Hey team, how are assistants managed with Azure AD? \n\nlululemon switched from the regular AD integration to Azure and overwrote all assistants and phone numbers when they did so. \n\nWorking on advising how they can bring things back to normal using the new SCIM version.\nTY",
+      "category": "Enterprise",
+      "reportedBy": "ericoleynick"
+    },
+    {
+      "threadTs": "1564166926.774196",
+      "text": "change email",
+      "issue": "Other",
+      "company": "19024",
+      "location": "Enter the Location ID",
+      "description": "change jmarcus@gehringlp.com to janice.marcus@gehring-group.com",
+      "category": "SMB",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1564421942.274785",
+      "text": "api access",
+      "issue": "Integration",
+      "company": "7929",
+      "location": "null",
+      "description": "Some of our customers are also Envoy customers and they want to receive notification in Lark when their visitors and deliveries arrive. We have been your customers and it will be more convenient for our staff and our customers if they can be notified about their visitors just in Lark.  https://signwithenvoy.zendesk.com/agent/tickets/59442",
+      "category": "Enterprise",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1564503244.163601",
+      "text": "Payclip expressing delayed API response time",
+      "issue": "Other",
+      "company": "63161",
+      "location": "Enter the Location ID",
+      "description": "From Payclip: We've successfully developed our API and we are consuming your API, but there is alittle problem here, the envoy's rensponse time its quite high, like 20-24 seconds, even for slack takes the same amount of time.\n\nIs there anyway for you guys to decrease that gap?",
+      "category": "MM",
+      "reportedBy": "bri"
+    },
+    {
+      "threadTs": "1564503561.253700",
+      "text": "delete user",
+      "issue": "General",
+      "company": "30333",
+      "location": "Enter the Location ID",
+      "description": "can we please delete this user? https://retool.envoy.christmas/presentation/Account%20%26%20User%20Explorer/Users?#userID=54661 this company is apparently a client of his and they've added him to their directory which he should not be a part of.",
+      "category": "MM",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1564596086.509369",
+      "text": "Delete duplicate account",
+      "issue": "General",
+      "company": "https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=64876",
+      "location": "null",
+      "description": "Can we please delete this duplicate account? https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=64876",
+      "category": "MM",
+      "reportedBy": "meagan"
+    },
+    {
+      "threadTs": "1564599032.661106",
+      "text": "Delete recurring invite",
+      "issue": "General",
+      "company": "https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=22822",
+      "location": "Enter the Location ID",
+      "description": "An employee accidentally put in an invite for another employee, Christopher Utecht, that is reoccurring every day. They have tried to delete this invite on their end, but it does not seem to be registering in the system. Can we delete all of these invites, including the original?",
+      "category": "MM",
+      "reportedBy": "meagan"
+    },
+    {
+      "threadTs": "1564614722.509864",
+      "text": "Disassociate Client (User ID: 168646) from Company",
+      "issue": "General",
+      "company": "4086",
+      "location": "Enter the Location ID",
+      "description": "I have a client (*User ID: 168646*) who's looking to be disassociated from a particular company (*Company ID: 4086*). Can someone do this for me?\n\nIntercom chat: https://app.intercom.io/a/apps/shgh0wrr/inbox/inbox/unassigned/conversations/23072358563",
+      "category": "SMB",
+      "reportedBy": "harrison.garovi"
+    },
+    {
+      "threadTs": "1564681662.890713",
+      "text": "host notification status not appearing",
+      "issue": "Other",
+      "company": "21143",
+      "location": "Enter the Location ID",
+      "description": "Error below - its saying none attempted but the notification is working. ",
+      "category": "SMB",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1564695521.128514",
+      "text": "API Access",
+      "issue": "Integration",
+      "company": "4047",
+      "location": "Enter the Location ID",
+      "description": "Requesting access to the API to create a token to integrate Envoy with our Okta provisioning system.\nAE for Medallia: Ed Marco\nhttps://signwithenvoy.zendesk.com/agent/tickets/59862",
+      "category": "Enterprise",
+      "reportedBy": "mello"
+    },
+    {
+      "threadTs": "1564699895.502643",
+      "text": "clear phone numbers",
+      "issue": "General",
+      "company": "64564",
+      "location": "Enter the Location ID",
+      "description": "clear the phone numbers from the directory so they can resync their azure - https://signwithenvoy.zendesk.com/agent/tickets/59211",
+      "category": "SMB",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1564754857.266937",
+      "text": "unblock this ip address",
+      "issue": "Security",
+      "company": "28983",
+      "location": "Enter the Location ID",
+      "description": "Hey can you unblock this ip address my cloudflare is acting up again!  195.26.58.230 https://app.intercom.io/a/apps/shgh0wrr/inbox/inbox/unassigned/conversations/23101718298",
+      "category": "SMB",
+      "reportedBy": "kkeelan"
+    },
+    {
+      "threadTs": "1564758331.358375",
+      "text": "HTML (read-only) was red and may not have a close tags",
+      "issue": "Other",
+      "company": "12974",
+      "location": "16851",
+      "description": "Having an issue printing a badge. The alignment on the badge is off and the printer is cutting the badge short. had one of their designers look at the Badge CSS and she noticed that some of the HTML (read-only) was red and may not have a close tag.",
+      "category": "MM",
+      "reportedBy": "kkeelan"
+    },
+    {
+      "threadTs": "1565014151.788173",
+      "text": "Eventbrite not displaying correct date/time",
+      "issue": "Integration",
+      "company": "23278",
+      "location": "27225",
+      "description": "https://signwithenvoy.zendesk.com/agent/tickets/53268\n\nwhen we try and sign in a pre-registered customer we get the below error in the top right hand corner and also we can change the date for when they sign in \n\nEventbrite integration and have noticed that Envoy is not displaying the Eventbrite time as per screenshots below and as per attached;",
+      "category": "MM",
+      "reportedBy": "kkeelan"
+    },
+    {
+      "threadTs": "1565021659.336792",
+      "text": "Azure pulling in mobile and work number",
+      "issue": "Integration",
+      "company": "64564",
+      "location": "Enter the Location ID",
+      "description": "this company would like mobile numbers listed but if there is no mobile number to leave the field blank, instead it's pulling over a work number when there's no mobile number.  (Attaching photos of the mapping)",
+      "category": "SMB",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1565026763.643401",
+      "text": "disassociate user from Mindspace",
+      "issue": "General",
+      "company": "18916",
+      "location": "Enter the Location ID",
+      "description": "https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Users#userID=756685 - this user  is no longer using Mindspaces coworking space and he's seeing the wrong company/having trouble. Can we disassociate him with mindspace? (Conversation - https://app.intercom.io/a/apps/shgh0wrr/inbox/inbox/unassigned/conversations/23135361802) \n",
+      "category": "MM",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1565037566.633726",
+      "text": "Can GSuite Sync either or not just combine",
+      "issue": "Integration",
+      "company": "297",
+      "location": "21984",
+      "description": "\"orgUnitPath=/Employees orgUnitPath=/Contractors\"\n\nit will look for someone who is in the Employees OU AND the Contractors OU\n\ncustomer want to add people who are in the Employees OU OR the Contractors OU",
+      "category": "MM",
+      "reportedBy": "kkeelan"
+    },
+    {
+      "threadTs": "1565038295.784497",
+      "text": "Can GSuite Sync either or not just combine",
+      "issue": "Integration",
+      "company": "297",
+      "location": "21984",
+      "description": "\n\"orgUnitPath=/Employees orgUnitPath=/Contractors\"\nit will look for someone who is in the Employees OU AND the Contractors OU\ncustomer want to add people who are in the Employees OU OR the Contractors OU\n\n",
+      "category": "MM",
+      "reportedBy": "kkeelan"
+    },
+    {
+      "threadTs": "1565045522.544373",
+      "text": "Client (User ID: 760662) Wants to be Disassociated From Company (Company ID: 3822) and Start a New Company",
+      "issue": "General",
+      "company": "3822",
+      "location": "null",
+      "description": "I have a client (User ID: 760662) who is looking to be disassociated from Galvanize (Company ID: 3822) and start a new company, ClearVoice Inc on the Basic plan.\n\n\nIntercom Chat: https://app.intercom.io/a/apps/shgh0wrr/inbox/inbox/unassigned/conversations/23138052061\n\nUser's Retool Link: https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Users#userID=760662",
+      "category": "SMB",
+      "reportedBy": "harrison.garovi"
+    },
+    {
+      "threadTs": "1565113639.523267",
+      "text": "Request to Rename Company",
+      "issue": "General",
+      "company": "11245",
+      "location": "Enter the Location ID",
+      "description": "A global admin (User ID: 623937) wants to rename their company (Company ID: 11245) to Khoros LLC",
+      "category": "SMB",
+      "reportedBy": "harrison.garovi"
+    },
+    {
+      "threadTs": "1565123326.576578",
+      "text": "change company name",
+      "issue": "General",
+      "company": "32952",
+      "location": "Enter the Location ID",
+      "description": "company name should be Signify Health - https://app.intercom.io/a/apps/shgh0wrr/inbox/inbox/unassigned/conversations/23151443981 Global admin wrote in requesting.",
+      "category": "SMB",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1565128529.117041",
+      "text": "Extend Company's Trial to 90 Day Enterprise Plan",
+      "issue": "General",
+      "company": "65949",
+      "location": "null",
+      "description": "The client (User ID: 746133) inquired with Wendi if they can get a 90 Day Enterprise Plan extension on their account. This was confirmed with Telia. ",
+      "category": "SMB",
+      "reportedBy": "harrison.garovi"
+    },
+    {
+      "threadTs": "1565129563.574255",
+      "text": "Change company name ",
+      "issue": "Other",
+      "company": "66117",
+      "location": "Enter the Location ID",
+      "description": "User wants to change company name to McMaster-Carr\n\nCompany ID 66117 would like to change their account  name. New Account Name will be > McMaster-Carr\nhttps://app.intercom.io/a/apps/shgh0wrr/inbox/inbox/unassigned/conversations/23152129438",
+      "category": "SMB",
+      "reportedBy": "dennis"
+    },
+    {
+      "threadTs": "1565191786.356331",
+      "text": "Can we kill the directory sync at this location please? ",
+      "issue": "General",
+      "company": "7599",
+      "location": "8558",
+      "description": "Can we kill the directory sync at this location please? It's stuck hanging. Thank you :)",
+      "category": "MM",
+      "reportedBy": "megan"
+    },
+    {
+      "threadTs": "1565199713.948235",
+      "text": "Delete location",
+      "issue": "General",
+      "company": "https://boss.envoy.com/companies/17971",
+      "location": "https://boss.envoy.com/locations/81530",
+      "description": "Delete the location \"DELETE LOCATION\" (ID 81530)",
+      "category": "Enterprise",
+      "reportedBy": "meagan"
+    },
+    {
+      "threadTs": "1565279163.027087",
+      "text": "CSV sync stalling",
+      "issue": "General",
+      "company": "34345",
+      "location": "83579",
+      "description": "Can we kill the sync for this location please?",
+      "category": "MM",
+      "reportedBy": "megan"
+    },
+    {
+      "threadTs": "1565279359.641589",
+      "text": "CSV sync stalling",
+      "issue": "General",
+      "company": "66047",
+      "location": "82130",
+      "description": "Another account stuck on CSV importing, can we kill this one too please? ",
+      "category": "SMB",
+      "reportedBy": "megan"
+    },
+    {
+      "threadTs": "1565287910.789186",
+      "text": "Delete user",
+      "issue": "General",
+      "company": "https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Users#userID=536194",
+      "location": "Enter the Location ID",
+      "description": "Can we run an activity report on this user and then hard delete them? Will that remove them from the directory and remove their admin roles at the companies they are part of? I just tried removing the admin role for ID 21141 but wasn't able to.",
+      "category": "MM",
+      "reportedBy": "meagan"
+    },
+    {
+      "threadTs": "1565289628.973437",
+      "text": " error message for teams notification",
+      "issue": "Integration",
+      "company": "60892",
+      "location": "Enter the Location ID",
+      "description": "when one user (https://retool.envoy.christmas/presentation/Account%20%26%20User%20Explorer/Users?#userID=655039) is selected as a host he gets an error \"The bot is not part of this conversation\" in the notification error on envoy's dashboard. He's part of the team the bot has been added to so I'm not sure where to go from here. Is there a way on MS Teams that someone can remove the bot from DMing them? \n\n",
+      "category": "Enterprise",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1565298851.596919",
+      "text": "delete all employees",
+      "issue": "General",
+      "company": "31520",
+      "location": "Enter the Location ID",
+      "description": "global admin wrote in saying company would like to start over without any of their manually added employees -- \"Initially we manually imported them and now are very out of date.\"",
+      "category": "SMB",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1565364026.853787",
+      "text": "Delete Company",
+      "issue": "General",
+      "company": "64559",
+      "location": "Enter the Location ID",
+      "description": "Accidental trial account causing a problem - please delete",
+      "category": "SMB",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1565364053.808293",
+      "text": "Kill csv sync",
+      "issue": "Other",
+      "company": "66801",
+      "location": "83063",
+      "description": "Csv has been in progress for about an hour. It should've returned an error as the user was testing to see what would happen if he input two users with the same email address, but then it got stuck",
+      "category": "SMB",
+      "reportedBy": "mello"
+    },
+    {
+      "threadTs": "1565364266.578606",
+      "text": "Kill csv sync",
+      "issue": "Other",
+      "company": "65569",
+      "location": "81481",
+      "description": "Second one this morning. Csv upload has been stuck for an hour or so, and needs to be killed",
+      "category": "SMB",
+      "reportedBy": "mello"
+    },
+    {
+      "threadTs": "1565382649.943664",
+      "text": "change global admin email",
+      "issue": "General",
+      "company": "19024",
+      "location": "Enter the Location ID",
+      "description": "jmarcus@gehringlp.com ---> janice.marcus@gehring-group.com\n\nhttps://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Users#userID=271487 \n\nThe proper email is in the directory but cannot be added as a global admin for some reason. ",
+      "category": "SMB",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1565631648.642671",
+      "text": "uber experiencing directory issues",
+      "issue": "General",
+      "company": "470",
+      "location": "2727",
+      "description": "Employee directory is at 0 for this location but the host is still populating on the iPad like normal. Also getting a connection error when trying to load admin roles",
+      "category": "Enterprise",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1565634661.205743",
+      "text": "Deluxe Entertainment: Requesting 12-month data purge",
+      "issue": "Other",
+      "company": "19801",
+      "location": "Enter the Location ID",
+      "description": "Deluxe Entertainment is requesting to have a 12 month data anonymization process setup for all locations.",
+      "category": "Enterprise",
+      "reportedBy": "chrish"
+    },
+    {
+      "threadTs": "1565640071.524701",
+      "text": "Admin can't login/confirm email",
+      "issue": "General",
+      "company": "13297",
+      "location": "Enter the Location ID",
+      "description": "It seems like the user has got into a broken state, they're part of two accounts - one of which they can't confirm the email of and therefore can't login in. \n\nUser ID: 560536 (steve@biolabs.io)\n",
+      "category": "MM",
+      "reportedBy": "megan"
+    },
+    {
+      "threadTs": "1565641584.875998",
+      "text": "Bug with adding location",
+      "issue": "Other",
+      "company": "66537",
+      "location": "82735",
+      "description": "This trial customer is getting an error message when trying to add a location via the dashboard. ",
+      "category": "MM",
+      "reportedBy": "patrick"
+    },
+    {
+      "threadTs": "1565644490.036561",
+      "text": "change email address",
+      "issue": "General",
+      "company": "15148",
+      "location": "null",
+      "description": "kevin.wold@varidesk.com should now be kevin.wold@Varispace.com\n\nuser link: https://retool.envoy.christmas/presentation/Account%20%26%20User%20Explorer/Users?#userID=393727\n\nConversation link: https://signwithenvoy.zendesk.com/agent/tickets/60334",
+      "category": "SMB",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1565647365.545618",
+      "text": "Delete Interplay 3rd Floor",
+      "issue": "General",
+      "company": "650",
+      "location": "26458",
+      "description": "Delete the location \"Interplay 3rd floor\" \n\nTicket request: https://signwithenvoy.zendesk.com/agent/tickets/60338",
+      "category": "MM",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1565649332.701208",
+      "text": "Request to change client's (User ID: 340645) Envoy dashboard login email from sandiego@dfsco.com to sandiego@dfinsolutions.com",
+      "issue": "General",
+      "company": "5597",
+      "location": "null",
+      "description": "I have a client (User ID: 340645) who is requesting to change their Envoy dashboard login email from sandiego@dfsco.com to sandiego@dfinsolutions.com",
+      "category": "SMB",
+      "reportedBy": "harrison.garovi"
+    },
+    {
+      "threadTs": "1565710812.237697",
+      "text": "API question - emails triggered by sign in field",
+      "issue": "Integration",
+      "company": "40336",
+      "location": "Enter the Location ID",
+      "description": "Hi team, \nLaing O'Rourke would like to ask each visitor if they have accessibility needs. If so, they would like an email to be sent to their fire marshal on site with the name of the visitor and their host, so they can be prepared to help in event of fire drill/emergency. \n\nCould you help me clarify for them which endpoints they could use to set this up, if they had the resources available?",
+      "category": "Enterprise",
+      "reportedBy": "ericoleynick"
+    },
+    {
+      "threadTs": "1565714623.311049",
+      "text": "Client (User ID: 527168) Is Unable To Enable Ruckus Integration",
+      "issue": "Integration",
+      "company": "51738",
+      "location": "null",
+      "description": "I have a client (User ID: 527168) who's unable to enable the Ruckus integration. The error they receive is \"could not log in to Ruckus\". I reached out to the AE who added Ruckus on Chargebee and Boss yet they're still unable to enable the integration.\n\nTicket: https://signwithenvoy.zendesk.com/agent/tickets/60325\n\nIntercom: https://app.intercom.io/a/apps/shgh0wrr/inbox/inbox/conversation/23159854899\n",
+      "category": "SMB",
+      "reportedBy": "harrison.garovi"
+    },
+    {
+      "threadTs": "1565714856.571188",
+      "text": "Another API question - pre-registration",
+      "issue": "Integration",
+      "company": "2906",
+      "location": "Enter the Location ID",
+      "description": "Hello again, \n\nIs it possible to build a custom pre-registration portal with our API beta? Zendesk wants to send all their invited Executive Briefing guests a custom email with a link to a help center. The help center would have a link that guests can click to pre-register for their visit.",
+      "category": "Enterprise",
+      "reportedBy": "ericoleynick"
+    },
+    {
+      "threadTs": "1565797756.458666",
+      "text": "Directory sync hanging",
+      "issue": "General",
+      "company": "29391",
+      "location": "34284",
+      "description": "Can we kill the sync at the Waverly location for this account please?",
+      "category": "MM",
+      "reportedBy": "megan"
+    },
+    {
+      "threadTs": "1565800202.685474",
+      "text": "AD sync questions",
+      "issue": "Integration",
+      "company": "51749",
+      "location": "Enter the Location ID",
+      "description": "Following up, we have a few questions regarding the script that will run to import users from Active Directory.\n\n       1. Will this need to run every day to add in new users?\n       2. What happens to users that are loaded to Envoy but now disabled in AD? Does Envoy drop them or is that a manual process\n       3. New users don't always have their phone number completed immediately. What impact does that have?\n\n ",
+      "category": "MM",
+      "reportedBy": "bri"
+    },
+    {
+      "threadTs": "1565800408.666397",
+      "text": "Company name update please",
+      "issue": "General",
+      "company": "67566",
+      "location": "Enter the Location ID",
+      "description": "Can we update the name on this account from `Kalyani Technologies Limited` to `Bharat Forge Limited` please? \n\nGA request: https://app.intercom.io/a/apps/shgh0wrr/inbox/inbox/unassigned/conversations/23255512769",
+      "category": "SMB",
+      "reportedBy": "megan"
+    },
+    {
+      "threadTs": "1565812300.313344",
+      "text": "Can we delete this user please?",
+      "issue": "General",
+      "company": "2566",
+      "location": "Enter the Location ID",
+      "description": "Can we delete this user please 773214 (nick.youell@scalable.com)?",
+      "category": "SMB",
+      "reportedBy": "megan"
+    },
+    {
+      "threadTs": "1565812668.090996",
+      "text": "aruba clearpass stuck \"in progress\"",
+      "issue": "Integration",
+      "company": "31536",
+      "location": "38874",
+      "description": "Aruba clearpass is stuck in progress - when i went to debug it in retool it doesn't really tell me anything other than \"in progress\"\n\nhttps://retool.envoy.christmas/apps/Plugins/Debug%20Event?id=6349c76d-534f-4bc0-b376-c3df288050be#id=\n\nAlso, in their dashboard it says:\n\"LAST HEALTH CHECK\nWed Aug 14 2019 19:48:01 GMT+0000 (UTC)\nLAST ERROR MESSAGE\nNo errors\nFAILURE COUNT\n4\nSo that doesn't really make sense to me either.",
+      "category": "Enterprise",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1565813363.956517",
+      "text": "Centrify SCIM not populating employee directory",
+      "issue": "Integration",
+      "company": "2017",
+      "location": "Enter the Location ID",
+      "description": "Company recently switched from Active Directory to using Centrify SCIM integration. Global admin followed all steps and provisioned employees correctly, but employees aren't loading https://app.intercom.io/a/apps/shgh0wrr/inbox/inbox/unassigned/conversations/23258712863",
+      "category": "MM",
+      "reportedBy": "mello"
+    },
+    {
+      "threadTs": "1565977759.096786",
+      "text": "can we find who removed filters on a sync",
+      "issue": "General",
+      "company": "470",
+      "location": "Enter the Location ID",
+      "description": "Uber reached out wanting to know who removed the filters on their directory which caused a lot of problems for them. It was done between 8/4-8/5. Is it possible to find this out? ",
+      "category": "Enterprise",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1565984343.870127",
+      "text": "can we generate a new MS Teams install token",
+      "issue": "Integration",
+      "company": "60892",
+      "location": "Enter the Location ID",
+      "description": "Honeywell accidentally blocked MS Teams app and now that its unblocked its rejecting the install token to add teams to the bot. Is there a way we can change this for them to see if thats what's going wrong?",
+      "category": "Enterprise",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1565993653.976644",
+      "text": "delete location",
+      "issue": "Other",
+      "company": "66410",
+      "location": "82576",
+      "description": "delete 52576 location - it was an accident.",
+      "category": "SMB",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1565993727.960556",
+      "text": "Data and integration questions",
+      "issue": "Other",
+      "company": "https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=17971",
+      "location": "Enter the Location ID",
+      "description": "Could you please review/edit my responses to #1-3 and respond to the remaining questions?\n\n1. Is the sensitive data at rest encrypted? Please elaborate the specifics. At rest, data is encrypted using AWS for databases and Cloudflare for object storage. Both AWS and Cloudflare use AES256 for disk encryption. Our IT infrastructure is 100% cloud-based.\n2. Is the sensitive data in transit encrypted? Please elaborate the specifics. All customer data is transferred securely using TLS v1.2 and above from the iPad app and Envoy dashboard to the cloud. All requests are routed through Cloudflare which acts as a firewall.\n3. What are the data types that are retained by the hosted service for legal and business reasons and what is the retention period? Envoy stores your data indefinitely while you’re a customer. We only delete or purge data upon explicit request. Customer data is available for download as a CSV file through the dashboard or via our API. Data can be anonymized, which removes all personally identifiable information from your Visitor Log, upon request. Envoy may retain customer data for up to 30 days after termination of the contract.\n4. Are Application Audit records reviewed on a periodic basis by the respective business unit to detect anomalies?\n\na. Envoy - Okta (AD) integration -\n\n1. Please provide technical integration details for each one of those i.e. protocol/port used, data type(s) being pulled by the third party app.\n2. Is the API Integration is through SOAP/ REST?\n3. What type of API Authentication is used ( OAuth, Service keys, API keys etc).\n\nb. Envoy - ClearPass integration -\n\n1. Please provide technical integration details for each one of those i.e. protocol/port used, data type(s) being pulled by the third party app.\n2. Is the API Integration is through SOAP/ REST?\n3. What type of API Authentication is used ( OAuth, Service keys, API keys etc).\n\nc. Envoy - Google Drive integration -\n\n1. Please provide technical integration details for each one of those i.e. protocol/port used, data type(s) being pulled by the third party app.\n2. Is the API Integration is through SOAP/ REST?\n3. What type of API Authentication is used ( OAuth, Service keys, API keys etc).",
+      "category": "Enterprise",
+      "reportedBy": "meagan"
+    },
+    {
+      "threadTs": "1566139574.763232",
+      "text": "Add Block List trial to New Relic",
+      "issue": "General",
+      "company": "598",
+      "location": "Enter the Location ID",
+      "description": "New Relic is considering Block List. Can we activate the add-on in their account? I think I know how to do this, but don't want to screw something up in CB\n\nhttps://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=598",
+      "category": "Enterprise",
+      "reportedBy": "jim"
+    },
+    {
+      "threadTs": "1566222679.056034",
+      "text": "Delete Company ID: 67674",
+      "issue": "General",
+      "company": "23713",
+      "location": "null",
+      "description": "User Kelly Berryhill created another account by accident. She was originally suppose be apart of Site One Landscape Supply.",
+      "category": "MM",
+      "reportedBy": "dennis"
+    },
+    {
+      "threadTs": "1566231286.639895",
+      "text": "kill a sync",
+      "issue": "Other",
+      "company": "57118",
+      "location": "Enter the Location ID",
+      "description": "The CSV sync for this company seems to be stuck. Can we kill it so they can reupload",
+      "category": "SMB",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1566232001.264999",
+      "text": "Change Company Name",
+      "issue": "Other",
+      "company": "42194",
+      "location": "Enter the Location ID",
+      "description": "Global admin wants the company to be named `deepwatch` - all one work, all lowercase.",
+      "category": "Enterprise",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1566234201.614120",
+      "text": "delete location",
+      "issue": "Other",
+      "company": "5203",
+      "location": "83992",
+      "description": "customer forgot to copy over location settings and would like the location deleted so they can try again",
+      "category": "Enterprise",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1566238591.866147",
+      "text": "User (User ID: 655884) deletion Request",
+      "issue": "General",
+      "company": "9897",
+      "location": "null",
+      "description": "Client is requesting to have their Envoy user deleted. \n\nUser Retool Link: https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Users#userID=655884\n\nUser ID: 655884\n\nZendesk Ticket: https://signwithenvoy.zendesk.com/agent/tickets/60561",
+      "category": "SMB",
+      "reportedBy": "harrison.garovi"
+    },
+    {
+      "threadTs": "1566249806.049041",
+      "text": "Company rename in retool",
+      "issue": "Other",
+      "company": "53671",
+      "location": "Enter the Location ID",
+      "description": "Hi team,\n\nCan you please update company id 53671 name from \"Mn Twns\" to \"Minnesota Twins\"?\n\nTY!",
+      "category": "MM",
+      "reportedBy": "ericoleynick"
+    },
+    {
+      "threadTs": "1566253626.724929",
+      "text": "Delete company",
+      "issue": "Other",
+      "company": "63033",
+      "location": "Enter the Location ID",
+      "description": "user: https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Users#userID=692794 created a trial account before their company purchased a plan and now she and some other employees on it are experiencing issues of being on the wrong company and not realizing it. \n\nCan we please delete the deactivated company NZTE",
+      "category": "SMB",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1566308973.671408",
+      "text": "User would like to delete email associated with another company",
+      "issue": "Other",
+      "company": "5517",
+      "location": "5517",
+      "description": "User would like to delete his email address off a company. He is trying to trial Envoy for his own company and it keeps bringing him back to the company he is not apart of. His email address he'd like to delete of the company is: ss@gosschalks.co.uk\n\nThe company his email is associated to currently is called: C4DI",
+      "category": "SMB",
+      "reportedBy": "dennis"
+    },
+    {
+      "threadTs": "1566314175.011043",
+      "text": "Can we delete this duplicate Walmart a/c please?",
+      "issue": "General",
+      "company": "https://boss.envoy.com/companies/66398",
+      "location": "Enter the Location ID",
+      "description": "An employee signed up for a new a/c instead of logging into the original a/c.\n\nCan we also delete her a/c too so she can be added to their directory: ID `752444`",
+      "category": "SMB",
+      "reportedBy": "megan"
+    },
+    {
+      "threadTs": "1566316892.034997",
+      "text": "Delete Company (Company ID: 34952) and Cancel Subscription",
+      "issue": "General",
+      "company": "34952",
+      "location": "null",
+      "description": "The global admin (User ID: 345663) reached out to delete their company (Company ID: 34952), all associated data, and cancel their subscription. \n\nZendesk Ticket: https://signwithenvoy.zendesk.com/agent/tickets/60163\n\nCompany Retool: https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=34952\n\nUser Retool: https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Users#userID=345663",
+      "category": "SMB",
+      "reportedBy": "harrison.garovi"
+    },
+    {
+      "threadTs": "1566321450.494378",
+      "text": "clear mobile numbers from directory",
+      "issue": "Other",
+      "company": "25640",
+      "location": "all",
+      "description": "company had synced over office numbers instead of mobile and would like them wiped so they can resync.",
+      "category": "SMB",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1566322231.736209",
+      "text": "Uber global overview analytics tab has some wrong information",
+      "issue": "Other",
+      "company": "470",
+      "location": "5138",
+      "description": "For their HQ 1455 location the global overview analytics tab is listing their average monthly visitor count at 14,142 but the analytics tab on that location is listing the average as about 2500. \nThey're wondering where that 14k number came from as it seems very high.",
+      "category": "Enterprise",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1566326718.336234",
+      "text": "delete invites",
+      "issue": "Other",
+      "company": "49411",
+      "location": "Enter the Location ID",
+      "description": "A user accidentally created invites for 3 people on a recurring basis. Is there a way to fully delete all invites made by user: https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Users#userID=547851 \n\nhttps://dashboard.envoy.com/invites?query=sarah%20briggs",
+      "category": "SMB",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1566328721.169474",
+      "text": "Please delete duplicate account (61209)",
+      "issue": "Other",
+      "company": "61209",
+      "location": "Enter the Location ID",
+      "description": "Duplicate account in system that trial customer setup and asked to be deleted: https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=61209",
+      "category": "MM",
+      "reportedBy": "bri"
+    },
+    {
+      "threadTs": "1566392491.646763",
+      "text": "Global admin wants to delete location on account",
+      "issue": "Other",
+      "company": "63985",
+      "location": "84679",
+      "description": "Global Admin wrote in asking to delete location.  Location name is Bangalore. She stated that her employee created it by accident. User has global admin rights; Caihong Liu",
+      "category": "Enterprise",
+      "reportedBy": "dennis"
+    },
+    {
+      "threadTs": "1566398600.305349",
+      "text": "Delete location",
+      "issue": "General",
+      "company": "34422",
+      "location": "40273",
+      "description": "Company would like to delete \"Original Impressions\" location (Location ID: 40273)",
+      "category": "SMB",
+      "reportedBy": "mello"
+    },
+    {
+      "threadTs": "1566420870.033680",
+      "text": "Delete Company",
+      "issue": "Other",
+      "company": "68050",
+      "location": "Enter the Location ID",
+      "description": "This user accidentally created a trial account instead of logging into their company account and they would like the trial deleted\n\nRequest: https://signwithenvoy.zendesk.com/agent/tickets/60993",
+      "category": "SMB",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1566424849.692007",
+      "text": "change MS Teams from location to global",
+      "issue": "Integration",
+      "company": "569",
+      "location": "Enter the Location ID",
+      "description": "Equinix would like to have MS teams installed for all its locations can you guys switch it from location based to global?",
+      "category": "Enterprise",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1566482622.860263",
+      "text": "Slack name still contains old company name.",
+      "issue": "Integration",
+      "company": "10233",
+      "location": "11751",
+      "description": "Invite still shows location name as Tremor Video HQ when the company was changed to Telaria two years ago",
+      "category": "MM",
+      "reportedBy": "dennis"
+    },
+    {
+      "threadTs": "1566488610.576191",
+      "text": "delete company",
+      "issue": "Other",
+      "company": "68084",
+      "location": "null",
+      "description": "employee accidentally created a trial account and would like it deleted\n\nRequest: https://signwithenvoy.zendesk.com/agent/tickets/60956",
+      "category": "SMB",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1566491490.100304",
+      "text": "Company (Company ID: 569) Requests to Delete Location (Location ID to Delete: 2108​)",
+      "issue": "General",
+      "company": "569",
+      "location": "2108",
+      "description": "The global admin reached out requesting to delete the inactive location associated with 2108.",
+      "category": "SMB",
+      "reportedBy": "harrison.garovi"
+    },
+    {
+      "threadTs": "1566499890.142481",
+      "text": "Delete Company",
+      "issue": "General",
+      "company": "51260",
+      "location": "Enter the Location ID",
+      "description": "Admin created this account for a trial, and then started a completely different company. This one is no longer needed",
+      "category": "SMB",
+      "reportedBy": "mello"
+    },
+    {
+      "threadTs": "1566511092.446175",
+      "text": "User (User ID: 782457) wants their user account deleted",
+      "issue": "General",
+      "company": "1750",
+      "location": "null",
+      "description": "The client (User ID: 782457) chatted in requesting to have their account deleted.\n\nUser's retool page: https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Users#userID=782457\n\nZendesk Ticket: https://signwithenvoy.zendesk.com/agent/tickets/60999",
+      "category": "SMB",
+      "reportedBy": "harrison.garovi"
+    },
+    {
+      "threadTs": "1566518377.441907",
+      "text": "Remove user from one account and create new one with the same email",
+      "issue": "Other",
+      "company": "7301",
+      "location": "80760",
+      "description": "A second location was added to Klara's account.  c.uvhagen@klarna.com was made a global admin and created location for testing purposes. c.uvhagen@klarna.com is out of the EU and has decided to set up a completely new instance of Envoy for the EU. We need to delete location ID 80760 \"test location\" and however possible, make c.uvhagen@klarna.com the global admin of a completely new instance ENT ID for a new Klarna account that will operate separately and uniquely from the US site.\n\n c.uvhagen@klarna.com ID: 672625",
+      "category": "Enterprise",
+      "reportedBy": "heathervotel"
+    },
+    {
+      "threadTs": "1566574335.810442",
+      "text": "BCP?",
+      "issue": "Other",
+      "company": "7695",
+      "location": "null",
+      "description": "Just curious if we have a formal business continuity plan? \n\nSomeone from InTapp asked a loooong time ago and I have a recurring reminder I continue to snooze. \n\nTY!",
+      "category": "MM",
+      "reportedBy": "ericoleynick"
+    },
+    {
+      "threadTs": "1566575068.109436",
+      "text": "delete company",
+      "issue": "Other",
+      "company": "24721",
+      "location": "Enter the Location ID",
+      "description": "user created a trail account a while back and is now part of their company's proper account. Would like the trail account removed so it's not longer in her locations when she logs in",
+      "category": "SMB",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1566581126.890921",
+      "text": "Outlook Add-in invites sending to certain people",
+      "issue": "Integration",
+      "company": "24244",
+      "location": "Enter the Location ID",
+      "description": "Jayne Greybar is trying to send invites to internal and external via Outlook Add-in. But for some users, it does not allow her to create the invite.",
+      "category": "MM",
+      "reportedBy": "dennis"
+    },
+    {
+      "threadTs": "1566581449.327624",
+      "text": "Can Each Location Have Their Own Everbridge Integration Settings?",
+      "issue": "Integration",
+      "company": "1336",
+      "location": "null",
+      "description": "I have a client who when they enter their \"Envoy Visitor\" type information within their Everbridge integration at a particular location and subsequently select another location, updates that location's Everbridge settings, and returns to the previous, its settings are overwritten. Can each location have its own settings within the integration?\n\nTicket: https://signwithenvoy.zendesk.com/agent/tickets/61091",
+      "category": "SMB",
+      "reportedBy": "harrison.garovi"
+    },
+    {
+      "threadTs": "1566582371.214253",
+      "text": "mark packages older than 4 months as picked up",
+      "issue": "Other",
+      "company": "213",
+      "location": "4195",
+      "description": "Lyft would like to know if it's possible to mark every package older than 4 months as picked up in bulk? Currently they're having to go 30 packages at a time clicking through each page and marking as picked up but would like to know if there's a better way? -- this is specifically for the HQ delivery areas\n",
+      "category": "MM",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1566583157.370834",
+      "text": "User signed up wrong email",
+      "issue": "General",
+      "company": "68006",
+      "location": "84596",
+      "description": "User Malwine signed up with personal email instead of work email. Currently the email associated with account is malwine.laube@googlemail.com . She would like it changed to malwine.laube@deliveryhero.com",
+      "category": "MM",
+      "reportedBy": "dennis"
+    },
+    {
+      "threadTs": "1566827881.445984",
+      "text": "Delete Clearpass (Legacy)",
+      "issue": "Integration",
+      "company": "23985",
+      "location": "Enter the Location ID",
+      "description": "Company would like to delete their Clearpass (Legacy) integration so that they can enable V2 https://signwithenvoy.zendesk.com/agent/tickets/61119",
+      "category": "Enterprise",
+      "reportedBy": "mello"
+    },
+    {
+      "threadTs": "1566832151.539278",
+      "text": "Ripple - Cloudflare ban explanation",
+      "issue": "Other",
+      "company": "1721",
+      "location": "Enter the Location ID",
+      "description": "Hi team,\n\nHaley has an order form out for an Ent upgrade for Ripple. On Friday they experienced an IP ban, and Ripple's compliance person has some concerns. I'm hoping TSE/Eng can best advise on the reasons why the ban may have happened and how future instances can be minimized. \n\nTeam-TSE is cc'd on the email thread with the q's. Wanted to establish a ticket here too. \n\nThank you!",
+      "category": "MM",
+      "reportedBy": "ericoleynick"
+    },
+    {
+      "threadTs": "1566840545.484203",
+      "text": "Outlook add-in only creating invites for certain users",
+      "issue": "Integration",
+      "company": "24244",
+      "location": "28310",
+      "description": "Outlook add-in is only creating invites for certain users.  It's happening to both internals/externals. I've had user type out the guests name and it still does not appear to let them send the invite. ",
+      "category": "MM",
+      "reportedBy": "dennis"
+    },
+    {
+      "threadTs": "1566840870.749204",
+      "text": "Request to Delete Trial Company (Company ID: 59087)",
+      "issue": "General",
+      "company": "59087",
+      "location": "null",
+      "description": "The global admin (User ID: 631767) for a trial company account (Company ID: 59087) reached out requesting to delete the company and its data.\n\nTicket: https://signwithenvoy.zendesk.com/agent/tickets/61209",
+      "category": "SMB",
+      "reportedBy": "harrison.garovi"
+    },
+    {
+      "threadTs": "1566841631.941743",
+      "text": "migrate delivery area ",
+      "issue": "Other",
+      "company": "569",
+      "location": "85099",
+      "description": "Equinix is wanting their 7th floor copy area (59a43712-3733-4c4c-9eb7-67167ea46467) moved from Redwood city (2108) to Tampa 7th floor copy area(85099)",
+      "category": "Enterprise",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1566843653.986205",
+      "text": "Q on best practice: CC on Slack host notifications",
+      "issue": "Other",
+      "company": "2906",
+      "location": "83673",
+      "description": "Hi team,\nZendesk's Montreal office doesn't have a formal front desk, and visitors will sign in to Envoy from a shared spaced outside of the office area itself. \n\nTo ensure guests are greeted in a timely manner, in addition the the specific host, they would like to have a group of people notified (ideally through a channel).\n\nIs it possible in Okta to set up multiple reception staff as assistants only at the Montreal location? \n\nIs there some best practice I don't know about around notifying multiple people in Slack through another method?\n\nTY",
+      "category": "Enterprise",
+      "reportedBy": "ericoleynick"
+    },
+    {
+      "threadTs": "1566844150.200296",
+      "text": "find out why these employee was deleted",
+      "issue": "General",
+      "company": "37887",
+      "location": "null",
+      "description": "jgaubatz@blueorigin.com, jkalin@blueorigin.com, \n\n(once deleted but now re-added?) \nlbeaver@blueorigin.com\n\nBasically blueorigin wrote in saying that they're using Okta SCIM and some employees randomly get deleted. I'm hoping we can provide them some insight as to how this is happening if its on our end or Oktas. ",
+      "category": "Enterprise",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1566845157.095603",
+      "text": "delete company",
+      "issue": "Security",
+      "company": "55332",
+      "location": "Enter the Location ID",
+      "description": "can we fully delete this company and all associated employees from being able to access it?",
+      "category": "Enterprise",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1566849466.092808",
+      "text": "Azure setup q",
+      "issue": "Integration",
+      "company": "4622",
+      "location": "Enter the Location ID",
+      "description": "Hi, me again, \n\nEncana is setting up Azure and they have a number of q's about it in email. \n\nCould you answer me this in the meantime:\n\"We currently have “Synchronize Azure Active Directory Groups to Envoy” turned off, do we need to synchronize groups in Azure for Envoy to work?\"\n\nFrom the setup guide, I'm assuming the answer is yes:\nGo to the Mappings section on the Provisioning tab\nClick on “Synchronize Azure Active Directory Groups to Envoy”.\nIn the attribute Mappings section, delete the following group mapping attributes and “Save”:\nmail\nmailEnabled\nsecurityEnabled\nmembers",
+      "category": "Enterprise",
+      "reportedBy": "ericoleynick"
+    },
+    {
+      "threadTs": "1566853202.323638",
+      "text": "google drive failing ",
+      "issue": "Integration",
+      "company": "45470",
+      "location": "null",
+      "description": "google drive is failing with the reason \"unable to refresh token\" is that something we can fix on our end or can someone help me with how to help this customer if its not on our end? ",
+      "category": "SMB",
+      "reportedBy": "caitlink"
+    },
+    {
+      "threadTs": "1566853473.744388",
+      "text": "Aruba ClearPass showing twice for various visitor entries",
+      "issue": "Integration",
+      "company": "61171",
+      "location": "75351 and 75246",
+      "description": "Aruba ClearPass is showing twice for some guests on the dashboard in the Wi-Fi column",
+      "category": "MM",
+      "reportedBy": "isabel"
+    }
+  ],
+  "title": {},
+  "description": {},
+  "category": {},
+  "sales": [
+    {
+      "threadTs": "1560932170.183894",
+      "text": "text",
+      "company": "Enter the Company ID",
+      "location": "Enter the Location ID",
+      "date": "Wed Jun 19 2019 01:16:10 GMT+0000",
+      "category": "MM",
+      "reportedBy": "aasim"
+    },
+    {
+      "threadTs": "1560932463.840239",
+      "text": "text",
+      "company": "Enter the Company ID",
+      "location": "Enter the Location ID",
+      "date": "Wed Jun 19 2019 01:21:03 GMT+0000",
+      "category": "Enterprise",
+      "reportedBy": "aasim"
+    },
+    {
+      "threadTs": "1560965587.283832",
+      "text": "Slack Integration ",
+      "company": "23123",
+      "location": "32424",
+      "date": "Wed Jun 19 2019 10:33:07 GMT+0000",
+      "category": "MM",
+      "reportedBy": "cyrus"
+    },
+    {
+      "threadTs": "1561498061.128027",
+      "text": "Palantir is interested in integrating with C-Cure but has a host of questions.  We have answered their initial set of questions but would like to discuss with a Solutions Enginee follow-up questions from their team and possibly connecting C-Cure.  I can send over the original questions and response to the TSE joining the call.  Thank you!",
+      "company": "696",
+      "location": "Enter the Location ID",
+      "date": "Tue Jun 25 2019 14:27:41 GMT+0000",
+      "category": "Enterprise",
+      "reportedBy": "chrish"
+    },
+    {
+      "threadTs": "1562605881.208834",
+      "text": "The call is around Cisco Meraki integration for Aphria (big customer) - invited Aasim and Alex looking at their calendars as dedicated SMB TSEs",
+      "company": "51287",
+      "location": "Enter the Location ID",
+      "date": "Mon Jul 08 2019 10:11:21 GMT+0000",
+      "category": "SMB",
+      "reportedBy": "haley"
+    },
+    {
+      "threadTs": "1562782023.070751",
+      "text": "Coherent is requesting a call to help troubleshoot their AD integration. ",
+      "company": "20184",
+      "location": "null",
+      "date": "Wed Jul 10 2019 11:07:03 GMT+0000",
+      "category": "MM",
+      "reportedBy": "isabel"
+    },
+    {
+      "threadTs": "1563227384.987132",
+      "text": "The Trade Desk has been trialing Envoy for a month. We are looking at a 30 location rollout by end of July. Our Champion wants to get other facilities team members up to speed and will be bringing an undisclosed number of IT team members to this final call. They asked that we bring a technical resource to the call to answer any technical questions that would be a last step before signing the contract.",
+      "company": "62696",
+      "location": "77307",
+      "date": "Mon Jul 15 2019 14:49:45 GMT+0000",
+      "category": "MM",
+      "reportedBy": "mike"
+    },
+    {
+      "threadTs": "1563312697.649102",
+      "text": "A current 8 site (1 Premium+7 Basic) account wants to standardize Envoy across their offices (20 in total). Keegan and I have already have a deep discovery call with them, but they would like a technical resource from our side on the demo. One major point of emphasis will be the Visual Compliance integration and its functionality. ",
+      "company": "49076",
+      "location": "Enter the Location ID",
+      "date": "Tue Jul 16 2019 14:31:37 GMT+0000",
+      "category": "MM",
+      "reportedBy": "patrick"
+    },
+    {
+      "threadTs": "1563478283.920789",
+      "text": "Review tasks that need to be accomplished on the IT side (I have already sent them a list) for setup and give WageWorks IT an opportunity to ask any questions that they may have for Envoy. I will ask for questions ahead of the call, but one that already came up is around SSO. They are in the process of moving away from Okta to O365 SSO. I sent them information to review about the SSO options we currently have available.",
+      "company": "https://retool.envoy.christmas/apps/Account%20%26%20User%20Explorer/Company#companyID=65329",
+      "location": "Enter the Location ID",
+      "date": "Thu Jul 18 2019 12:31:23 GMT+0000",
+      "category": "MM",
+      "reportedBy": "meagan"
+    },
+    {
+      "threadTs": "1563831764.143671",
+      "text": "TOURO University is a prospect who has sent over extensive questions to shortlist Envoy for a demo/trial. We have finally gotten time for a group wide IT focused discussion and will have in attendance CIO, IT Directors and managers - they want their technical questions answered asap to move towards trialing. They have eliminated other platforms on demo calls because of people having to \"go ask and get back to them.\" Need to be able to speak to future badge printing capabilities (i.e. color), timeframe notifications (like if someone didn't sign out and they're maybe still on campus), or perhaps creating custom requirements via Envoy API.",
+      "company": "TBD",
+      "location": "null",
+      "date": "Mon Jul 22 2019 14:42:44 GMT+0000",
+      "category": "MM",
+      "reportedBy": "mike"
+    },
+    {
+      "threadTs": "1563987943.145155",
+      "text": "Troubleshooting ID/Passport scanning with some insight into Onfido development. This is a government contractor who bought Envoy to meet ITAR compliance and has been unimpressed with ID scanning asking about \"more advanced ID  scanning\" and having citizenship validated (VC integration?). They are also struggling with printing and are under the impression we print red/black because Brother printers have that capability and they say we mention that in the Help Center as well.",
+      "company": "58745",
+      "location": "71698",
+      "date": "Wed Jul 24 2019 10:05:43 GMT+0000",
+      "category": "MM",
+      "reportedBy": "mike"
+    },
+    {
+      "threadTs": "1564504854.477610",
+      "text": "Akamai is requesting to speak with a solutions engineer to go over our open API.  They have questions around pulling specific visitor data (which they cannot locate in the developer documentation).  Can we please have someone hop on a call any time between 9:30-11AM ET to speak with Jay and their implementations team?",
+      "company": "25613",
+      "location": "Enter the Location ID",
+      "date": "Tue Jul 30 2019 09:40:54 GMT+0000",
+      "category": "Enterprise",
+      "reportedBy": "chrish"
+    },
+    {
+      "threadTs": "1566246967.440097",
+      "text": "This is a recently split account. The main contact needs global admin rights per account so 2 separate user accounts exist (598157 and 760736). Company uses SSO/Okta. They created a 2nd app in Okta after confirming w/ Okta that they could create a new cert. Admin is having trouble accessing one of the accounts (22931) via Okta.",
+      "company": "66204 and 22931",
+      "location": "N/A",
+      "date": "Mon Aug 19 2019 13:36:07 GMT+0000",
+      "category": "Enterprise",
+      "reportedBy": "isabel"
+    }
+  ],
+  "date": {},
+  "issue": {}
+}

@@ -17,7 +17,7 @@ const sendConfirmation = (ticket) => {
       {
         title: `Ticket created for ${ticket.userEmail}`,
         // Get this from the 3rd party helpdesk system
-        title_link: 'http://example.com',
+        title_link: 'https://example.com',
         text: ticket.text,
         fields: [
           {
@@ -42,7 +42,8 @@ const sendConfirmation = (ticket) => {
       },
     ]),
   })).then((result) => {
-    debug('sendConfirmation: %o', result.data);
+    	console.log(result)
+	debug('sendConfirmation: %o', result.data);
   }).catch((err) => {
     debug('sendConfirmation error: %o', err);
     console.error(err);
