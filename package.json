@@ -25,6 +25,7 @@
     "express": "^4.15.2",
     "lowdb": "^1.0.0",
     "moment": "^2.24.0",
+    "superagent": "^5.1.0",
     "tsscmp": "^1.0.6"
   }
 }

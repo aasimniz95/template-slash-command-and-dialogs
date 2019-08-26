@@ -12,9 +12,11 @@ const FileSync = require('lowdb/adapters/FileSync');
 const adapter = new FileSync('db,json');
 const db = low(adapter);
 const moment = require('moment');
+const request = require('superagent');
 
 const slackSigningSecret = process.env.SLACK_SIGNING_SECRET;
 const slackAccessToken = process.env.SLACK_ACCESS_TOKEN;
+const googleFormID = process.env.GOOGLE_FORM_ID;
 const slackInteractions = createMessageAdapter(slackSigningSecret);
 
 const web = new WebClient(slackAccessToken);
@@ -441,7 +443,39 @@ slackInteractions.action('tech-ticket', (payload, respond) => {
 db.get('technical')
   .push({ threadTs: `${payload.action_ts}`, text: `${payload.submission.title}`, issue: `${payload.submission.issue}`, company: `${payload.submission.company}`, location: `${payload.submission.location}`, description: `${payload.submission.description}`, category: `${payload.submission.category}`,  reportedBy: `${payload.user.name}`})
   .write()
- 
+
+/*
+console.log('I started')
+var formId = googleFormID;
+          var fields = {
+            user: 'entry.704374325',
+            category: 'entry.99602879',
+            companyID: 'entry.1834695737',
+            locationID: 'entry.239553320',
+            textDescription: 'entry.1596552594'
+          }
+
+console.log('in the middle, `${fields.user}`')
+
+          request
+            .post(`https://docs.google.com/forms/d/e/${formId}/formResponse`)
+            .type('form')
+            .send({ 
+              [fields.user]: `${payload.user.name}`, //Username
+              [fields.category]: `${paypload.submission.business}`, //Business Category
+              [fields.companyID]: `${payload.submission.company}`, //Company ID
+              [fields.locationID]: `${payload.submission.location}`,
+              [fields.textDescription]: `${payload.submission.title}`
+            })
+            .end(function(err, res){
+              if (err || !res.ok) {
+                console.error(err);
+              } else {
+                console.log(res.body);
+              }
+            });
+ console.log('I failed') */
+
 setTimeout(() => {
 let userID = payload.user.name 
 let title = payload.submission.title
@@ -450,6 +484,46 @@ let company = payload.submission.company
 let location = payload.submission.location
 let business = payload.submission.category
 let issue = payload.submission.issue
+
+
+console.log('I started')
+var formId = googleFormID;
+          var fields = {
+            user: 'entry.704374325',
+            category: 'entry.99602879',
+            companyID: 'entry.1834695737',
+            locationID: 'entry.239553320',
+            textDescription: 'entry.1596552594'
+          }
+
+console.log('in the middle, `${fields.user}`')
+
+          request
+            .post('https://docs.google.com/forms/d/e/'+`${formId}`+'/formResponse')
+            .type('form')
+            .send({ 
+              [fields.user]: `${payload.user.name}`, //Username
+              [fields.category]: `${payload.submission.business}`, //Business Category
+              [fields.companyID]: `${payload.submission.company}`, //Company ID
+              [fields.locationID]: `${payload.submission.location}`,
+              [fields.textDescription]: `${payload.submission.description}`
+            })
+            .end(function(err, res){
+              if (err || !res.ok) {
+                console.error(err);
+              } else {
+                console.log(res.body);
+              }
+            });
+ console.log('I failed')
+
+
+
+
+
+
+
+
 
 let token =  process.env.SLACK_ACCESS_TOKEN
       // The app does some work using information in the submission

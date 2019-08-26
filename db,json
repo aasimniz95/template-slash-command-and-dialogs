@@ -3984,6 +3984,116 @@
       "description": "Aruba ClearPass is showing twice for some guests on the dashboard in the Wi-Fi column",
       "category": "MM",
       "reportedBy": "isabel"
+    },
+    {
+      "threadTs": "1566860341.819488",
+      "text": "Broken",
+      "issue": "General",
+      "company": "1234",
+      "location": "1234",
+      "description": "Test",
+      "category": "SMB",
+      "reportedBy": "aasim"
+    },
+    {
+      "threadTs": "1566860358.440177",
+      "text": "Broken",
+      "issue": "General",
+      "company": "1234",
+      "location": "1234",
+      "description": "Test",
+      "category": "SMB",
+      "reportedBy": "aasim"
+    },
+    {
+      "threadTs": "1566860359.223070",
+      "text": "Broken",
+      "issue": "General",
+      "company": "1234",
+      "location": "1234",
+      "description": "Test",
+      "category": "SMB",
+      "reportedBy": "aasim"
+    },
+    {
+      "threadTs": "1566860359.916278",
+      "text": "Broken",
+      "issue": "General",
+      "company": "1234",
+      "location": "1234",
+      "description": "Test",
+      "category": "SMB",
+      "reportedBy": "aasim"
+    },
+    {
+      "threadTs": "1566860362.662354",
+      "text": "Broken",
+      "issue": "General",
+      "company": "1234",
+      "location": "1234",
+      "description": "Test",
+      "category": "SMB",
+      "reportedBy": "aasim"
+    },
+    {
+      "threadTs": "1566860452.362439",
+      "text": "help",
+      "issue": "Security",
+      "company": "Enter the Company ID",
+      "location": "Enter the Location ID",
+      "description": "Enter a description",
+      "category": "SMB",
+      "reportedBy": "aasim"
+    },
+    {
+      "threadTs": "1566860707.942373",
+      "text": "text",
+      "issue": "General",
+      "company": "Enter the Company ID",
+      "location": "Enter the Location ID",
+      "description": "Enter a description",
+      "category": "MM",
+      "reportedBy": "aasim"
+    },
+    {
+      "threadTs": "1566861004.278750",
+      "text": "text",
+      "issue": "General",
+      "company": "Enter the Company ID",
+      "location": "Enter the Location ID",
+      "description": "Enter a description",
+      "category": "MM",
+      "reportedBy": "aasim"
+    },
+    {
+      "threadTs": "1566861087.767540",
+      "text": "text",
+      "issue": "General",
+      "company": "Enter the Company ID",
+      "location": "Enter the Location ID",
+      "description": "Enter a description",
+      "category": "SMB",
+      "reportedBy": "aasim"
+    },
+    {
+      "threadTs": "1566861413.768395",
+      "text": "text",
+      "issue": "Security",
+      "company": "Enter the Company ID",
+      "location": "Enter the Location ID",
+      "description": "Enter a description",
+      "category": "SMB",
+      "reportedBy": "aasim"
+    },
+    {
+      "threadTs": "1566861502.071336",
+      "text": "text",
+      "issue": "General",
+      "company": "Enter the Company ID",
+      "location": "Enter the Location ID",
+      "description": "Enter a description",
+      "category": "SMB",
+      "reportedBy": "aasim"
     }
   ],
   "title": {},
@@ -4106,6 +4216,15 @@
       "date": "Mon Aug 19 2019 13:36:07 GMT+0000",
       "category": "Enterprise",
       "reportedBy": "isabel"
+    },
+    {
+      "threadTs": "1566859199.259969",
+      "text": "Call to discuss Everbridge Integration and Avigilon in a demo environment to show the prospect what it looks like through Envoy into the system. They are deciding between Premium and Enterprise. Cannabis company with 5 locations.",
+      "company": "NA",
+      "location": "NA",
+      "date": "Mon Aug 26 2019 15:39:59 GMT+0000",
+      "category": "SMB",
+      "reportedBy": "haley"
     }
   ],
   "date": {},
