@@ -1475,6 +1475,15 @@
       "reportedAt": "Mon Aug 26 2019 09:41:01 GMT+0000",
       "priority": "Medium",
       "reportedBy": "alexm"
+    },
+    {
+      "threadTs": "1566861837.884876",
+      "text": "error message appears when there's no error",
+      "company": "52580",
+      "location": "null",
+      "reportedAt": "Mon Aug 26 2019 16:23:57 GMT+0000",
+      "priority": "Low",
+      "reportedBy": "caitlink"
     }
   ],
   "threadTs": {},

@@ -3,7 +3,8 @@ npm-debug.log
 package-lock.json
 test
 temp*
-
+db,json
+db,json.save
 .env
 
 ### https://raw.github.com/github/gitignore/b304edf487ce607174e188712225b5269d43f279/Global/OSX.gitignore
