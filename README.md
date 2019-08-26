@@ -1,12 +1,11 @@
-# Slash Command and Dialogs blueprint
+# Envoy TSE Help Bot 
 
-> :sparkles: *Updated October 2018: As we have introduced some new features, this tutorial and the code samples have been updated! All the changes from the previous version of this example, read the DIFF.md*
+[Citation - Original Application Framework]: https://github.com/slackapi/template-slash-command-and-dialogs
 
 ## Creating a helpdesk ticket using a Slash Command and a Dialog
 
-Use a slash command and a dialog to create a helpdesk ticket in a 3rd-party system. Once it has been created, send a message to the user with information about their ticket.
+Use our '/bug tech' or '/bug sales' commands to create either a technical escalation ticket or to create a request for a call and there is a lowDB flat-file DB configured to track data beyond Slack's 6 month scope of data retention. 
 
-![helpdesk-dialog](https://user-images.githubusercontent.com/700173/30929774-5fe9f0e2-a374-11e7-958e-0d8c362f89a3.gif)
 
 ## Setup
 
@@ -54,4 +53,3 @@ If you did "Remix" on Glitch, it auto-generate a new URL with two random words, 
     * `SLACK_SIGNING_SECRET`: Your app's Signing Secret (available on the **Basic Information** page)
 3. If you're running the app locally, run the app (`npm start`).
 
-If you want to run it locally, I recommend creating a localhost tunnel with [ngrok](https://ngrok.com)!
