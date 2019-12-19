@@ -18,7 +18,7 @@ const slackSigningSecret = process.env.SLACK_SIGNING_SECRET;
 const slackAccessToken = process.env.SLACK_ACCESS_TOKEN;
 const googleFormID = process.env.GOOGLE_FORM_ID;
 const slackInteractions = createMessageAdapter(slackSigningSecret);
-
+const googleFormID2 = process.env.GOOGLE_FORM_ID_2;
 const web = new WebClient(slackAccessToken);
 
 const app = express();
@@ -394,8 +394,37 @@ let company = payload.submission.company
 let location = payload.submission.location
 let business = payload.submission.category
 let token =  process.env.SLACK_ACCESS_TOKEN
+
       // The app does some work using information in the submission
      //  users.findBySlackId(payload.submission.id)
+
+const formId = googleFormID2
+var fields = {
+  user: 'entry.1519474619',
+  category: 'entry.873497630',
+  companyID: 'entry.1308501204',
+  locationID: 'entry.281746552',
+  textDescription: 'entry.1130128362'
+}
+
+request
+  .post('https://docs.google.com/forms/d/e/'+`${formId}`+'/formResponse')
+  .type('form')
+  .send({ 
+    [fields.user]: `${payload.user.name}`, //Username
+    [fields.category]: `${payload.submission.business}`, //Business Category
+    [fields.companyID]: `${payload.submission.company}`, //Company ID
+    [fields.locationID]: `${payload.submission.location}`,
+    [fields.textDescription]: `${payload.submission.description}`
+  })
+  .end(function(err, res){
+    if (err || !res.ok) {
+      console.error(err);
+    } else {
+      console.log(res.body);
+    }
+  });
+
         axios.get(`https://slack.com/api/users.info?token=${token}&user=${payload.submission.bug_assignee}&pretty=1`)
         
         // .then(user => user.incrementKudosAndSave(payload.submission.comment))
@@ -484,8 +513,9 @@ let company = payload.submission.company
 let location = payload.submission.location
 let business = payload.submission.category
 let issue = payload.submission.issue
-
-
+let urgency = payload.submission.urgency
+console.log(payload.action_ts)
+console.log(payload)
 console.log('I started')
 var formId = googleFormID;
           var fields = {
@@ -517,7 +547,49 @@ console.log('in the middle, `${fields.user}`')
             });
  console.log('I failed')
 
+if( payload.submission.issue == 'AccountMerge' || payload.submission.issue == 'Removal' || payload.submission.issue == 'DataRetention' || payload.submission.issue == 'RFP' || payload.submission.issue == 'Integration') {  
+    axios({
+         method: 'post',
+         url: `${payload.response_url}`,
+         headers: {
+	 'Content-Type': 'application/json;charset=UTF-8',
+         'Authorization': `Bearer ${slackAccessToken}`,
+         },
+	data: {
+             "channel": `${payload.channel.id}`,
+              "thread_ts": `${payload.id}`,
+              "text": "Escalated to <!subteam^SCDEQ4QQM>! :tada:",
+	      "response_type": "in_channel",
+		
+        }
+    }).then((res) => {
+  console.log("RESPONSE RECEIVED: ", res);
+})
+.catch((err) => {
+  console.log('AXIOS ERROR', err)
+})
 
+} else if ( payload.submission.issue == 'General' || payload.submission.issue == 'Billing' || payload.submission.issue == 'Security' || payload.submission.issue == 'IpWhitelisting' ) {
+    axios({
+         method: 'post',
+         url: `${payload.response_url}`,
+         headers:{
+         'Authorization': `Bearer ${slackAccessToken}`,
+         'Content-Type': 'application/json;charset=UTF-8',
+	}, 
+	data: {
+             "channel": `${payload.channel.id}`,
+              "thread_ts":`${payload.id}`,
+              "text": "Escalated to <!subteam^S27GT22LF>! :tada:",
+	      "response_type": "in_channel",
+        }
+    }).then((res) => {
+  console.log("RESPONSE RECEIVED: ", res);
+})
+.catch((err) => {
+  console.log('AXIOS ERROR', err)
+})
+}
 
 
 
@@ -557,9 +629,12 @@ respond({
         },
 	{   
             "text": `*Issue Type*\n${issue}`
+        },
+        {   
+            "text": `*Urgency*\n${urgency}`
         },  
         {   
-            "text": `*Submitted By*\n${userID}`
+            "text": `*Submitted By*\n<@${userID}>`
         }
       ]
    })
@@ -1000,17 +1075,30 @@ let dialog = {
               { label: 'ENT', value: 'Enterprise' },
             ],
           },
+         {
+            label: 'Urgency Level',
+            type: 'select',
+            name: 'urgency',
+            options: [
+              { label: 'Low', value: 'Low' },
+              { label: 'Medium', value: 'Medium' },
+              { label: 'High', value: 'High' },
+            ],
+          },
 	 {
             label: 'Issue Category',
             type: 'select',
             name: 'issue',   
             options: [
               { label: 'General', value: 'General' },
+              { label: 'Billing', value: 'Billing' },
               { label: 'Security', value: 'Security' },
+              { label: 'IP Whitelisting', value: 'IpWhitelisting' },
               { label: 'Integration', value: 'Integration' },
-              { label: 'Finance/Account Swap', value: 'Finance'},
+              { label: 'Account/Location Removal', value: 'Removal' },
+              { label: 'Data Retention', value: 'DataRetention' },
 	      { label: 'Account Merge', value: 'AccountMerge' },
-	      { label: 'Other', value: 'Other' },
+	      { label: 'RFP/Questionnaire', value: 'RFP' },
 	    ],
           },
         ],
